@@ -1,0 +1,399 @@
+rotten_tomatoes_score imdb_rating genre year worldwide_gross title
+89 7.8 Sci-fi 2014 714766572 Captain America: The Winter Soldier
+90 7.7 Sci-fi 2014 708835589 Dawn of the Planet of the Apes
+91 8.1 Sci-fi 2014 774176600 Guardians of the Galaxy
+72 8.7 Sci-fi 2014 672974414 Interstellar
+49 7.1 Family 2014 758654942 Maleficent
+53 6.9 Fantasy 2014 709582323 The Amazing Spider-Man 2
+61 7.5 Fantasy 2014 955113783 The Hobbit: The Battle of the Five Armies
+65 6.8 Sci-fi 2014 752100229 The Hunger Games: Mockingjay - Part 1
+18 5.8 Sci-fi 2014 1091404499 Transformers: Age of Extinction
+91 8.1 Sci-fi 2014 748121534 X-Men: Days of Future Past
+74 7.5 Family 2013 970761885 Despicable Me 2
+69 7.2 Thriller 2013 788679850 Fast & Furious 6
+89 7.7 Comedy 2013 1274219009 Frozen
+97 7.9 Thriller 2013 716392705 Gravity
+79 7.3 Sci-fi 2013 1215439994 Iron Man 3
+56 7.2 Fantasy 2013 668045518 Man of Steel
+78 7.4 Comedy 2013 743559607 Monsters University
+74 8 Fantasy 2013 960366855 The Hobbit: The Desolation of Smaug
+89 7.7 Adventure 2013 864912963 The Hunger Games: Catching Fire
+65 7.1 Fantasy 2013 644783140 Thor: The Dark World
+37 6.7 Comedy 2012 877244782 Ice Age: Continental Drift
+79 7 Comedy 2012 746921274 Madagascar 3: Europe's Most Wanted
+69 6.9 Sci-fi 2012 624026776 Men in Black 3
+92 7.8 Thriller 2012 1108561013 Skyfall
+72 7.1 Fantasy 2012 757930663 The Amazing Spider-Man
+92 8.2 Sci-fi 2012 1518594910 The Avengers
+87 8.5 Thriller 2012 1084439099 The Dark Knight Rises
+64 8 Fantasy 2012 1017003568 The Hobbit: An Unexpected Journey
+84 7.3 Sci-fi 2012 691247768 The Hunger Games
+48 5.6 Fantasy 2012 829685377 The Twilight Saga: Breaking Dawn - Part 2
+39 6.3 Comedy 2011 559852396 Cars 2
+78 7.3 Thriller 2011 626137675 Fast Five
+96 8.1 Mystery 2011 1341511219 Harry Potter and the Deathly Hallows - Part 2
+81 7.3 Animation 2011 665692281 Kung Fu Panda 2
+93 7.4 Thriller 2011 694713380 Mission: Impossible - Ghost Protocol
+33 6.7 Fantasy 2011 1045713802 Pirates of the Caribbean: On Stranger Tides
+34 6.5 Comedy 2011 586764305 The Hangover Part II
+22 5.5 Comedy 2011 563749323 The Smurfs
+0 4.9 Fantasy 2011 712171856 The Twilight Saga: Breaking Dawn - Part 1
+35 6.3 Sci-fi 2011 1123794079 Transformers: Dark of the Moon
+51 6.5 Fantasy 2010 1025467110 Alice in Wonderland
+81 7.7 Family 2010 543113985 Despicable Me
+78 7.7 Fantasy 2010 960283305 Harry Potter and the Deathly Hallows - Part 1
+98 8.2 Family 2010 494878759 How to Train Your Dragon
+86 8.8 Sci-fi 2010 825531030 Inception
+73 7.1 Sci-fi 2010 623933331 Iron Man 2
+58 6.4 Comedy 2010 752600867 Shrek Forever After
+90 7.8 Family 2010 591794936 Tangled
+49 4.9 Fantasy 2010 698491347 The Twilight Saga: Eclipse
+99 8.4 Comedy 2010 1063171911 Toy Story 3
+39 5.8 Sci-fi 2009 769304749 2012
+37 6.7 Thriller 2009 485930816 Angels & Demons
+83 7.9 Fantasy 2009 2749064328 Avatar
+84 7.5 Fantasy 2009 934416487 Harry Potter and the Half-Blood Prince
+45 7 Animation 2009 886686817 Ice Age: Dawn of the Dinosaurs
+70 7.6 Crime 2009 524028679 Sherlock Holmes
+79 7.8 Comedy 2009 467483912 The Hangover
+28 4.6 Fantasy 2009 709827462 The Twilight Saga: New Moon
+19 6 Sci-fi 2009 836303693 Transformers: Revenge of the Fallen
+98 8.3 Comedy 2009 731342744 Up
+41 6.5 Fantasy 2008 624386746 Hancock
+78 6.2 Adventure 2008 786636033 Indiana Jones and the Kingdom of the Crystal Skull
+93 7.9 Sci-fi 2008 585174222 Iron Man
+87 7.6 Animation 2008 631744560 Kung Fu Panda
+64 6.7 Animation 2008 603900354 Madagascar: Escape 2 Africa
+54 6.4 Romance 2008 609827661 Mamma Mia!
+65 6.7 Adventure 2008 586090727 Quantum of Solace
+67 6.6 Family 2008 419665568 The Chronicles of Narnia: Prince Caspian
+94 9 Drama 2008 997000000 The Dark Knight
+96 8.4 Family 2008 521311860 WALL-E
+60 7.8 War 2007 456068181 300
+79 7.4 Fantasy 2007 939885929 Harry Potter and the Order of the Phoenix
+70 7.2 Thriller 2007 585349010 I Am Legend
+35 6.5 Mystery 2007 457364600 National Treasure: Book of Secrets
+45 7.1 Fantasy 2007 963420425 Pirates of the Caribbean: At World's End
+96 8 Family 2007 623707397 Ratatouille
+40 6.1 Comedy 2007 798958162 Shrek the Third
+63 6.2 Adventure 2007 890871626 Spider-Man 3
+90 7.4 Comedy 2007 527071022 The Simpsons Movie
+57 7.2 Sci-fi 2007 709709780 Transformers
+74 7.2 Comedy 2006 461983149 Cars
+95 8 Thriller 2006 599045960 Casino Royale
+75 6.5 Family 2006 384335608 Happy Feet
+57 6.9 Animation 2006 660940780 Ice Age: The Meltdown
+70 6.8 Thriller 2006 397850012 Mission: Impossible III
+44 6.4 Comedy 2006 574480052 Night at the Museum
+54 7.3 Fantasy 2006 1066179725 Pirates of the Caribbean: Dead Man's Chest
+76 6.1 Fantasy 2006 391081192 Superman Returns
+25 6.5 Thriller 2006 758239851 The Da Vinci Code
+58 6.8 Sci-fi 2006 459359555 X-Men: The Last Stand
+85 8.3 Adventure 2005 372710015 Batman Begins
+83 6.7 Comedy 2005 474968763 Charlie and the Chocolate Factory
+88 7.6 Fantasy 2005 895921036 Harry Potter and the Goblet of Fire
+69 6.7 Romance 2005 368100420 Hitch
+84 7.3 Drama 2005 550517357 King Kong
+55 6.9 Comedy 2005 532680671 Madagascar
+59 6.5 Crime 2005 478207520 Mr. & Mrs. Smith
+80 7.7 Fantasy 2005 848754768 Star Wars Episode III: Revenge of the Sith
+76 6.9 Fantasy 2005 745011272 The Chronicles of Narnia: The Lion the Witch and the Wardrobe
+74 6.5 Thriller 2005 591745540 War of the Worlds
+91 7.8 Fantasy 2004 795634069 Harry Potter and the Prisoner of Azkaban
+38 6.3 Romance 2004 516642939 Meet the Fockers
+55 6.4 Thriller 2004 362744280 Ocean's Twelve
+35 6 Comedy 2004 367275019 Shark Tale
+88 7.2 Comedy 2004 919838758 Shrek 2
+94 7.3 Adventure 2004 783766341 Spider-Man 2
+45 6.4 Sci-fi 2004 544272402 The Day After Tomorrow
+97 8 Animation 2004 631442092 The Incredibles
+49 7.1 Drama 2004 611899420 The Passion of the Christ
+54 7.2 Adventure 2004 497409852 Troy
+23 6.5 Crime 2003 273339556 Bad Boys II
+48 6.7 Fantasy 2003 484592874 Bruce Almighty
+99 8.2 Comedy 2003 867893978 Finding Nemo
+79 8.1 Fantasy 2003 654264015 Pirates of the Caribbean: The Curse of the Black Pearl
+70 6.4 Sci-fi 2003 433371112 Terminator 3: Rise of the Machines
+65 7.7 History 2003 456758981 The Last Samurai
+95 8.9 Fantasy 2003 1119929521 The Lord of the Rings: The Return of the King
+73 7.2 Sci-fi 2003 742128461 The Matrix Reloaded
+36 6.7 Sci-fi 2003 427343298 The Matrix Revolutions
+87 7.5 Sci-fi 2003 407711549 X2
+57 6.1 Crime 2002 431971116 Die Another Day
+82 7.3 Fantasy 2002 878643482 Harry Potter and the Chamber of Secrets
+77 7.6 Comedy 2002 383257136 Ice Age
+39 6 Fantasy 2002 441818803 Men in Black II
+90 7.7 Sci-fi 2002 358372926 Minority Report
+76 6.6 Romance 2002 368744044 My Big Fat Greek Wedding
+74 6.7 Thriller 2002 408247917 Signs
+89 7.3 Adventure 2002 821708551 Spider-Man
+67 6.7 Fantasy 2002 649398328 Star Wars Episode II: Attack of the Clones
+96 8.7 Fantasy 2002 926287400 The Lord of the Rings: The Two Towers
+39 6.7 Thriller 2001 351692268 Hannibal
+80 7.5 Fantasy 2001 974733550 Harry Potter and the Sorcerer's Stone
+49 5.9 Sci-fi 2001 368780809 Jurassic Park III
+96 8.1 Comedy 2001 525366597 Monsters Inc.
+82 7.8 Thriller 2001 450717150 Ocean's Eleven
+25 6 Romance 2001 449220945 Pearl Harbor
+45 5.7 Sci-fi 2001 362211740 Planet of the Apes
+87 7.9 Comedy 2001 484409218 Shrek
+91 8.8 Fantasy 2001 870761744 The Lord of the Rings: The Fellowship of the Ring
+47 6.3 Fantasy 2001 433013274 The Mummy Returns
+90 7.7 Drama 2000 429632142 Cast Away
+65 6.4 Family 2000 349822765 Dinosaur
+76 8.5 Drama 2000 457640427 Gladiator
+53 6 Fantasy 2000 345141403 How the Grinch Stole Christmas
+84 7 Comedy 2000 330444045 Meet the Parents
+57 6 Thriller 2000 546388105 Mission: Impossible II
+47 6.4 Drama 2000 328718434 The Perfect Storm
+46 6.6 Mystery 2000 291420351 What Lies Beneath
+54 6.4 Romance 2000 374111707 What Women Want
+82 7.4 Sci-fi 2000 296339527 X-Men
+88 8.4 Romance 1999 356296601 American Beauty
+51 6.6 Comedy 1999 312016858 Austin Powers: The Spy Who Shagged Me
+83 7 Romance 1999 363889678 Notting Hill
+57 6.6 Fantasy 1999 924317558 Star Wars Episode I: The Phantom Menace
+88 7.2 Drama 1999 448191819 Tarzan
+87 8.7 Sci-fi 1999 460379930 The Matrix
+55 7 Fantasy 1999 415933406 The Mummy
+85 8.2 Thriller 1999 672806292 The Sixth Sense
+51 6.4 Crime 1999 361832400 The World Is Not Enough
+100 7.9 Comedy 1999 485015179 Toy Story 2
+92 7.2 Comedy 1998 363398565 A Bug's Life
+39 6.6 Sci-fi 1998 553709788 Armageddon
+48 6.1 Sci-fi 1998 349464664 Deep Impact
+43 5.3 Fantasy 1998 294456605 Dr. Dolittle
+16 5.3 Thriller 1998 379014294 Godzilla
+52 6.6 Thriller 1998 285444603 Lethal Weapon 4
+86 7.5 Family 1998 304320254 Mulan
+93 8.6 War 1998 481840909 Saving Private Ryan
+92 7.2 Romance 1998 289317794 Shakespeare in Love
+83 7.1 Romance 1998 369884651 There's Something About Mary
+79 6.4 Drama 1997 315156409 Air Force One
+86 7.8 Romance 1997 314178011 As Good as It Gets
+81 6.8 Comedy 1997 302710615 Liar Liar
+92 7.2 Sci-fi 1997 589390539 Men in Black
+71 6.3 Romance 1997 299288605 My Best Friend's Wedding
+71 7.6 Sci-fi 1997 263920180 The Fifth Element
+95 7.2 Music 1997 257850122 The Full Monty
+52 6.5 Sci-fi 1997 618638999 The Lost World: Jurassic Park
+88 7.7 Romance 1997 1843201268 Titanic
+57 6.5 Thriller 1997 333011068 Tomorrow Never Dies
+38 5.6 Family 1996 320689294 101 Dalmatians
+36 6 Mystery 1996 242295562 Eraser
+60 6.9 Sci-fi 1996 817400891 Independence Day
+85 7.3 Romance 1996 273552592 Jerry Maguire
+61 7.1 Thriller 1996 457696359 Mission: Impossible
+75 6.6 Thriller 1996 309492681 Ransom
+73 6.9 Family 1996 325338851 The Hunchback of Notre Dame
+65 5.5 Sci-fi 1996 273961019 The Nutty Professor
+66 7.4 Thriller 1996 335062621 The Rock
+57 6.2 Drama 1996 494471524 Twister
+95 7.6 History 1995 353471312 Apollo 13
+41 5.4 Fantasy 1995 336529144 Batman Forever
+44 6 Fantasy 1995 287928194 Casper
+51 7.6 Thriller 1995 366101766 Die Hard with a Vengeance
+82 7.2 Thriller 1995 352194034 GoldenEye
+50 6.8 Fantasy 1995 262797249 Jumanji
+56 6.6 Drama 1995 346079773 Pocahontas
+79 8.7 Mystery 1995 327311859 Seven
+100 8.3 Comedy 1995 361958736 Toy Story
+42 6.1 Sci-fi 1995 264218220 Waterworld
+82 6.9 Drama 1994 215887717 Clear and Present Danger
+66 7.3 Comedy 1994 247275374 Dumb and Dumber
+72 8.8 Romance 1994 677387716 Forrest Gump
+95 7.1 Romance 1994 245700832 Four Weddings and a Funeral
+61 7.6 Romance 1994 223664608 Interview with the Vampire: The Vampire Chronicles
+93 7.2 Thriller 1994 350448145 Speed
+21 4.8 Fantasy 1994 341631208 The Flintstones
+90 8.5 Drama 1994 768625889 The Lion King
+77 6.8 Fantasy 1994 351583407 The Mask
+72 7.2 Thriller 1994 378882411 True Lies
+69 6.3 Thriller 1993 255000211 Cliffhanger
+37 5.8 Romance 1993 266614059 Indecent Proposal
+93 8 Thriller 1993 914691118 Jurassic Park
+71 6.9 Family 1993 441286195 Mrs. Doubtfire
+78 7.7 Drama 1993 206678440 Philadelphia
+96 8.9 History 1993 321306305 Schindler's List
+72 6.8 Romance 1993 227799884 Sleepless in Seattle
+75 6.8 Thriller 1993 270248367 The Firm
+96 7.8 Crime 1993 368875760 The Fugitive
+52 6.5 Drama 1993 195268056 The Pelican Brief
+81 7.6 Thriller 1992 243240178 A Few Good Men
+94 8 Comedy 1992 504050219 Aladdin
+54 6.9 Thriller 1992 352927224 Basic Instinct
+80 7 Action 1992 266822354 Batman Returns
+79 7.5 Romance 1992 215862692 Bram Stoker's Dracula
+24 6.5 Family 1992 358994850 Home Alone 2: Lost in New York
+56 6.7 Thriller 1992 321731527 Lethal Weapon 3
+71 6.2 Music 1992 231605150 Sister Act
+32 6.1 Music 1992 411006740 The Bodyguard
+85 7 Music 1992 183097323 Wayne's World
+93 8 Fantasy 1991 351863363 Beauty and the Beast
+76 7.3 Thriller 1991 182291969 Cape Fear
+90 6.7 Western 1991 179033791 City Slickers
+30 6.7 Family 1991 300854823 Hook
+83 6.7 Comedy 1991 181096164 Hot Shots!
+85 8 Thriller 1991 205405498 JFK
+50 6.9 Drama 1991 390493908 Robin Hood: Prince of Thieves
+92 8.5 Sci-fi 1991 519843345 Terminator 2: Judgment Day
+60 6.8 Fantasy 1991 191502426 The Addams Family
+94 8.6 Thriller 1991 272742922 The Silence of the Lambs
+73 7.4 Romance 1990 244527583 Back to the Future Part III
+82 8 Western 1990 424208848 Dances with Wolves
+69 7.1 Thriller 1990 240031094 Die Hard 2
+74 7 Romance 1990 505702588 Ghost
+54 7.4 Family 1990 476684675 Home Alone
+51 6 Crime 1990 201957688 Kindergarten Cop
+85 6.9 Mystery 1990 221303188 Presumed Innocent
+62 6.9 Romance 1990 463406268 Pretty Woman
+41 6.7 Comedy 1990 201965915 Teenage Mutant Ninja Turtles
+84 7.5 Action 1990 261336002 Total Recall
+64 7.8 Sci-fi 1989 331950002 Back to the Future Part II
+72 7.6 Adventure 1989 411348924 Batman
+90 7.2 War 1989 161001698 Born on the Fourth of July
+85 8 Drama 1989 235860116 Dead Poets Society
+51 6.5 Horror 1989 215394738 Ghostbusters II
+75 6.2 Family 1989 222724172 Honey I Shrunk the Kids
+88 8.3 Adventure 1989 474171806 Indiana Jones and the Last Crusade
+83 7.2 Thriller 1989 227853986 Lethal Weapon 2
+58 5.8 Romance 1989 296999813 Look Who's Talking
+92 7.6 Fantasy 1989 184155863 The Little Mermaid
+11 5.5 Comedy 1988 109306210 "Crocodile" Dundee II
+81 7.4 Comedy 1988 73707461 Beetlejuice
+97 7.3 Fantasy 1988 114968774 Big
+5 5.8 Romance 1988 78222753 Cocktail
+68 6.9 Romance 1988 128152301 Coming to America
+92 8.3 Thriller 1988 83008852 Die Hard
+90 8 Drama 1988 172825435 Rain Man
+86 7.6 Crime 1988 78756177 The Naked Gun: From the Files of Police Squad!
+36 5.9 Comedy 1988 111938388 Twins
+98 7.7 Crime 1988 156452370 Who Framed Roger Rabbit
+46 6.4 Crime 1987 153665036 Beverly Hills Cop II
+78 6.9 Thriller 1987 156645693 Fatal Attraction
+89 7.3 War 1987 123922370 Good Morning Vietnam
+84 7.6 Thriller 1987 65207127 Lethal Weapon
+92 7.1 Romance 1987 80640528 Moonstruck
+87 6.6 Thriller 1987 65673230 Stakeout
+58 6.4 Comedy 1987 66995000 The Secret of My Success
+80 8 Thriller 1987 76270454 The Untouchables
+73 6.5 Horror 1987 63766510 The Witches of Eastwick
+74 5.8 Family 1987 167780960 Three Men and a Baby
+89 6.5 Adventure 1986 174803506 "Crocodile" Dundee
+98 8.4 Sci-fi 1986 86160248 Aliens
+68 6.9 Drama 1986 84542002 An American Tail
+84 6.5 Sport 1986 91258000 Back to School
+88 8.1 War 1986 138530565 Platoon
+94 6.8 Crime 1986 71624879 Ruthless People
+85 7.3 Comedy 1986 109713132 Star Trek IV: The Voyage Home
+26 5.8 Comedy 1986 79817937 The Golden Child
+43 5.8 Romance 1986 115103979 The Karate Kid Part II
+54 6.8 Romance 1986 176781728 Top Gun
+96 8.5 Romance 1985 210609762 Back to the Future
+80 6.6 Sci-fi 1985 85313124 Cocoon
+53 7.2 Romance 1985 87071205 Out Of Africa
+28 6.4 Thriller 1985 150415432 Rambo: First Blood Part II
+38 6.7 Sport 1985 127873716 Rocky IV
+35 6.3 Comedy 1985 60088980 Spies Like Us
+88 7.8 Drama 1985 94175854 The Color Purple
+68 7.8 Family 1985 61389680 The Goonies
+48 6 Comedy 1985 75973200 The Jewel of the Nile
+91 7.5 Romance 1985 68706993 Witness
+83 7.3 Comedy 1984 234760478 Beverly Hills Cop
+56 6.4 Romance 1984 80035402 Footloose
+97 7.8 Fantasy 1984 238632124 Ghostbusters
+85 7.2 Horror 1984 153083102 Gremlins
+84 7.6 Action 1984 179870271 Indiana Jones and the Temple of Doom
+41 6.6 Comedy 1984 81198894 Police Academy
+87 6.9 Comedy 1984 78371200 Romancing the Stone
+78 6.6 Sci-fi 1984 76572238 Star Trek III: The Search for Spock
+90 7.2 Family 1984 90815558 The Karate Kid
+100 8.1 Sci-fi 1984 78400000 The Terminator
+33 6.1 Romance 1983 92921203 Flashdance
+85 6.4 Drama 1983 64783827 Mr. Mom
+42 6.6 Thriller 1983 67800000 Octopussy
+96 6.8 Drama 1983 63541777 Risky Business
+79 8.4 Fantasy 1983 252583617 Star Wars Episode VI: Return of the Jedi
+0 4.4 Romance 1983 64892670 Staying Alive
+56 6.6 Thriller 1983 67642693 Sudden Impact
+88 7.4 Drama 1983 108423489 Terms of Endearment
+88 7.5 Comedy 1983 90404800 Trading Places
+92 7.1 Thriller 1983 79567667 WarGames
+92 6.9 Crime 1982 78868508 48 Hrs.
+81 7 Romance 1982 129795554 An Officer and a Gentleman
+50 6.5 Family 1982 57059003 Annie
+98 7.9 Sci-fi 1982 359197037 E.T. the Extra-Terrestrial
+88 7.4 Horror 1982 76606280 Poltergeist
+30 6.1 Comedy 1982 105492483 Porky's
+61 6.7 Sport 1982 124146897 Rocky III
+90 7.7 Drama 1982 78912963 Star Trek II: The Wrath of Khan
+56 5.7 Musical 1982 69701637 The Best Little Whorehouse in Texas
+88 7.4 Romance 1982 177200000 Tootsie
+90 6.9 Romance 1981 95461682 Arthur
+84 7.2 Sport 1981 58972904 Chariots of Fire
+73 6.8 Thriller 1981 54812802 For Your Eyes Only
+92 7.7 Drama 1981 119285432 On Golden Pond
+95 8.6 Adventure 1981 212222025 Raiders of the Lost Ark
+88 6.9 War 1981 85297000 Stripes
+89 6.8 Sci-fi 1981 108185706 Superman II
+31 6.1 Comedy 1981 72179579 The Cannonball Run
+75 7.2 Drama 1981 50427646 The Four Seasons
+91 7 Fantasy 1981 42365581 Time Bandits
+82 6.6 Comedy 1980 103290500 9 to 5
+96 7.8 Comedy 1980 83453539 Airplane!
+20 6 Comedy 1980 70687344 Any Which Way You Can
+100 7.5 Music 1980 67182787 Coal Miner's Daughter
+88 6 War 1980 69847348 Private Benjamin
+20 5.1 Crime 1980 66132626 Smokey and the Bandit II
+96 8.8 Adventure 1980 209398025 Star Wars Episode V: The Empire Strikes Back
+67 6.8 Crime 1980 101300000 Stir Crazy
+11 5.7 Romance 1980 58853106 The Blue Lagoon
+87 8 Crime 1980 57229890 The Blues Brothers
+71 6 Romance 1979 74865517 10
+97 8.5 Sci-fi 1979 80931801 Alien
+99 8.5 War 1979 83471511 Apocalypse Now
+88 7.8 Drama 1979 106260000 Kramer vs. Kramer
+62 6.2 Crime 1979 70308099 Moonraker
+72 7.1 Sport 1979 85182160 Rocky II
+45 6.4 Sci-fi 1979 82258456 Star Trek: The Motion Picture
+24 6.2 Horror 1979 86432520 The Amityville Horror
+84 7.2 Comedy 1979 73691419 The Jerk
+89 7.7 Family 1979 65200000 The Muppet Movie
+95 8 Horror 1978 59020957 Dawn of the Dead
+31 6.2 Comedy 1978 85196485 Every Which Way but Loose
+79 7.2 Romance 1978 159978870 Grease
+88 6.9 Sport 1978 81640278 Heaven Can Wait
+63 6.2 Comedy 1978 78000000 Hooper
+53 5.7 Thriller 1978 77737272 Jaws 2
+91 7.6 Comedy 1978 120091123 National Lampoon's Animal House
+82 6.7 Mystery 1978 49579269 Revenge of the Pink Panther
+93 7.3 Sci-fi 1978 134218018 Superman
+93 8.2 War 1978 48979328 The Deer Hunter
+73 7.4 War 1977 50750000 A Bridge Too Far
+98 8.1 Romance 1977 38251425 Annie Hall
+96 7.7 Sci-fi 1977 116395460 Close Encounters of the Third Kind
+71 6.5 Fantasy 1977 51061196 Oh God!
+90 6.8 Romance 1977 94213184 Saturday Night Fever
+81 6.8 Romance 1977 126737428 Smokey and the Bandit
+93 8.7 Fantasy 1977 307263857 Star Wars
+36 6.1 Thriller 1977 47346365 The Deep
+87 7.4 Romance 1977 102000000 The Goodbye Girl
+78 7.1 Thriller 1977 46838673 The Spy Who Loved Me
+31 6.5 Romance 1976 80000000 A Star Is Born
+98 8 Thriller 1976 70600000 All the President's Men
+0 4.6 Family 1976 55700000 In Search of Noah's Ark
+46 5.8 Horror 1976 52614445 King Kong
+54 6.7 History 1976 43220000 Midway
+92 8.1 Sport 1976 117235147 Rocky
+88 6.9 Crime 1976 51079064 Silver Streak
+78 6.8 Thriller 1976 46236000 The Enforcer
+86 7.6 Mystery 1976 60922980 The Omen
+0 7 History 1976 86600000 To Fly!
+0 6 Drama 1975 35000000 Aloha Bobby and Rose
+97 8.1 Drama 1975 50000000 Dog Day Afternoon
+38 6.4 Musical 1975 39000000 Funny Lady
+63 6.3 Romance 1975 49407734 Shampoo
+56 6.2 Western 1975 36853000 The Apple Dumpling Gang
+0 6.4 Drama 1975 34673100 The Other Side of the Mountain
+89 7.1 Mystery 1975 41833347 The Return of the Pink Panther
+74 6.7 Thriller 2002 408247917 Signs

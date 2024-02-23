@@ -1,0 +1,5510 @@
+Script started on 2023-12-07 20:51:06-0600
+]0;jfg001@turing: ~/HW/HW7[01;32mjfg001@turing[00m:[01;34m~/HW/HW7[00m$ ./hw7
+2014 Captain America: The Winter Soldier 89 7.8 Sci-fi 714766572
+2014 Dawn of the Planet of the Apes 90 7.7 Sci-fi 708835589
+2014 Guardians of the Galaxy 91 8.1 Sci-fi 774176600
+2014 Interstellar 72 8.7 Sci-fi 672974414
+2014 Maleficent 49 7.1 Family 758654942
+2014 The Amazing Spider-Man 2 53 6.9 Fantasy 709582323
+2014 The Hobbit: The Battle of the Five Armies 61 7.5 Fantasy 955113783
+2014 The Hunger Games: Mockingjay - Part 1 65 6.8 Sci-fi 752100229
+2014 Transformers: Age of Extinction 18 5.8 Sci-fi 1091404499
+2014 X-Men: Days of Future Past 91 8.1 Sci-fi 748121534
+2013 Despicable Me 2 74 7.5 Family 970761885
+2013 Fast & Furious 6 69 7.2 Thriller 788679850
+2013 Frozen 89 7.7 Comedy 1274219009
+2013 Gravity 97 7.9 Thriller 716392705
+2013 Iron Man 3 79 7.3 Sci-fi 1215439994
+2013 Man of Steel 56 7.2 Fantasy 668045518
+2013 Monsters University 78 7.4 Comedy 743559607
+2013 The Hobbit: The Desolation of Smaug 74 8 Fantasy 960366855
+2013 The Hunger Games: Catching Fire 89 7.7 Adventure 864912963
+2013 Thor: The Dark World 65 7.1 Fantasy 644783140
+2012 Ice Age: Continental Drift 37 6.7 Comedy 877244782
+2012 Madagascar 3: Europe's Most Wanted 79 7 Comedy 746921274
+2012 Men in Black 3 69 6.9 Sci-fi 624026776
+2012 Skyfall 92 7.8 Thriller 1108561013
+2012 The Amazing Spider-Man 72 7.1 Fantasy 757930663
+2012 The Avengers 92 8.2 Sci-fi 1518594910
+2012 The Dark Knight Rises 87 8.5 Thriller 1084439099
+2012 The Hobbit: An Unexpected Journey 64 8 Fantasy 1017003568
+2012 The Hunger Games 84 7.3 Sci-fi 691247768
+2012 The Twilight Saga: Breaking Dawn - Part 2 48 5.6 Fantasy 829685377
+2011 Cars 2 39 6.3 Comedy 559852396
+2011 Fast Five 78 7.3 Thriller 626137675
+2011 Harry Potter and the Deathly Hallows - Part 2 96 8.1 Mystery 1341511219
+2011 Kung Fu Panda 2 81 7.3 Animation 665692281
+2011 Mission: Impossible - Ghost Protocol 93 7.4 Thriller 694713380
+2011 Pirates of the Caribbean: On Stranger Tides 33 6.7 Fantasy 1045713802
+2011 The Hangover Part II 34 6.5 Comedy 586764305
+2011 The Smurfs 22 5.5 Comedy 563749323
+2011 The Twilight Saga: Breaking Dawn - Part 1 0 4.9 Fantasy 712171856
+2011 Transformers: Dark of the Moon 35 6.3 Sci-fi 1123794079
+2010 Alice in Wonderland 51 6.5 Fantasy 1025467110
+2010 Despicable Me 81 7.7 Family 543113985
+2010 Harry Potter and the Deathly Hallows - Part 1 78 7.7 Fantasy 960283305
+2010 How to Train Your Dragon 98 8.2 Family 494878759
+2010 Inception 86 8.8 Sci-fi 825531030
+2010 Iron Man 2 73 7.1 Sci-fi 623933331
+2010 Shrek Forever After 58 6.4 Comedy 752600867
+2010 Tangled 90 7.8 Family 591794936
+2010 The Twilight Saga: Eclipse 49 4.9 Fantasy 698491347
+2010 Toy Story 3 99 8.4 Comedy 1063171911
+2009 2012 39 5.8 Sci-fi 769304749
+2009 Angels & Demons 37 6.7 Thriller 485930816
+2009 Avatar 83 7.9 Fantasy 2749064328
+2009 Harry Potter and the Half-Blood Prince 84 7.5 Fantasy 934416487
+2009 Ice Age: Dawn of the Dinosaurs 45 7 Animation 886686817
+2009 Sherlock Holmes 70 7.6 Crime 524028679
+2009 The Hangover 79 7.8 Comedy 467483912
+2009 The Twilight Saga: New Moon 28 4.6 Fantasy 709827462
+2009 Transformers: Revenge of the Fallen 19 6 Sci-fi 836303693
+2009 Up 98 8.3 Comedy 731342744
+2008 Hancock 41 6.5 Fantasy 624386746
+2008 Indiana Jones and the Kingdom of the Crystal Skull 78 6.2 Adventure 786636033
+2008 Iron Man 93 7.9 Sci-fi 585174222
+2008 Kung Fu Panda 87 7.6 Animation 631744560
+2008 Madagascar: Escape 2 Africa 64 6.7 Animation 603900354
+2008 Mamma Mia! 54 6.4 Romance 609827661
+2008 Quantum of Solace 65 6.7 Adventure 586090727
+2008 The Chronicles of Narnia: Prince Caspian 67 6.6 Family 419665568
+2008 The Dark Knight 94 9 Drama 997000000
+2008 WALL-E 96 8.4 Family 521311860
+2007 300 60 7.8 War 456068181
+2007 Harry Potter and the Order of the Phoenix 79 7.4 Fantasy 939885929
+2007 I Am Legend 70 7.2 Thriller 585349010
+2007 National Treasure: Book of Secrets 35 6.5 Mystery 457364600
+2007 Pirates of the Caribbean: At World's End 45 7.1 Fantasy 963420425
+2007 Ratatouille 96 8 Family 623707397
+2007 Shrek the Third 40 6.1 Comedy 798958162
+2007 Spider-Man 3 63 6.2 Adventure 890871626
+2007 The Simpsons Movie 90 7.4 Comedy 527071022
+2007 Transformers 57 7.2 Sci-fi 709709780
+2006 Cars 74 7.2 Comedy 461983149
+2006 Casino Royale 95 8 Thriller 599045960
+2006 Happy Feet 75 6.5 Family 384335608
+2006 Ice Age: The Meltdown 57 6.9 Animation 660940780
+2006 Mission: Impossible III 70 6.8 Thriller 397850012
+2006 Night at the Museum 44 6.4 Comedy 574480052
+2006 Pirates of the Caribbean: Dead Man's Chest 54 7.3 Fantasy 1066179725
+2006 Superman Returns 76 6.1 Fantasy 391081192
+2006 The Da Vinci Code 25 6.5 Thriller 758239851
+2006 X-Men: The Last Stand 58 6.8 Sci-fi 459359555
+2005 Batman Begins 85 8.3 Adventure 372710015
+2005 Charlie and the Chocolate Factory 83 6.7 Comedy 474968763
+2005 Harry Potter and the Goblet of Fire 88 7.6 Fantasy 895921036
+2005 Hitch 69 6.7 Romance 368100420
+2005 King Kong 84 7.3 Drama 550517357
+2005 Madagascar 55 6.9 Comedy 532680671
+2005 Mr. & Mrs. Smith 59 6.5 Crime 478207520
+2005 Star Wars Episode III: Revenge of the Sith 80 7.7 Fantasy 848754768
+2005 The Chronicles of Narnia: The Lion the Witch and the Wardrobe 76 6.9 Fantasy 745011272
+2005 War of the Worlds 74 6.5 Thriller 591745540
+2004 Harry Potter and the Prisoner of Azkaban 91 7.8 Fantasy 795634069
+2004 Meet the Fockers 38 6.3 Romance 516642939
+2004 Ocean's Twelve 55 6.4 Thriller 362744280
+2004 Shark Tale 35 6 Comedy 367275019
+2004 Shrek 2 88 7.2 Comedy 919838758
+2004 Spider-Man 2 94 7.3 Adventure 783766341
+2004 The Day After Tomorrow 45 6.4 Sci-fi 544272402
+2004 The Incredibles 97 8 Animation 631442092
+2004 The Passion of the Christ 49 7.1 Drama 611899420
+2004 Troy 54 7.2 Adventure 497409852
+2003 Bad Boys II 23 6.5 Crime 273339556
+2003 Bruce Almighty 48 6.7 Fantasy 484592874
+2003 Finding Nemo 99 8.2 Comedy 867893978
+2003 Pirates of the Caribbean: The Curse of the Black Pearl 79 8.1 Fantasy 654264015
+2003 Terminator 3: Rise of the Machines 70 6.4 Sci-fi 433371112
+2003 The Last Samurai 65 7.7 History 456758981
+2003 The Lord of the Rings: The Return of the King 95 8.9 Fantasy 1119929521
+2003 The Matrix Reloaded 73 7.2 Sci-fi 742128461
+2003 The Matrix Revolutions 36 6.7 Sci-fi 427343298
+2003 X2 87 7.5 Sci-fi 407711549
+2002 Die Another Day 57 6.1 Crime 431971116
+2002 Harry Potter and the Chamber of Secrets 82 7.3 Fantasy 878643482
+2002 Ice Age 77 7.6 Comedy 383257136
+2002 Men in Black II 39 6 Fantasy 441818803
+2002 Minority Report 90 7.7 Sci-fi 358372926
+2002 My Big Fat Greek Wedding 76 6.6 Romance 368744044
+2002 Signs 74 6.7 Thriller 408247917
+2002 Spider-Man 89 7.3 Adventure 821708551
+2002 Star Wars Episode II: Attack of the Clones 67 6.7 Fantasy 649398328
+2002 The Lord of the Rings: The Two Towers 96 8.7 Fantasy 926287400
+2001 Hannibal 39 6.7 Thriller 351692268
+2001 Harry Potter and the Sorcerer's Stone 80 7.5 Fantasy 974733550
+2001 Jurassic Park III 49 5.9 Sci-fi 368780809
+2001 Monsters Inc. 96 8.1 Comedy 525366597
+2001 Ocean's Eleven 82 7.8 Thriller 450717150
+2001 Pearl Harbor 25 6 Romance 449220945
+2001 Planet of the Apes 45 5.7 Sci-fi 362211740
+2001 Shrek 87 7.9 Comedy 484409218
+2001 The Lord of the Rings: The Fellowship of the Ring 91 8.8 Fantasy 870761744
+2001 The Mummy Returns 47 6.3 Fantasy 433013274
+2000 Cast Away 90 7.7 Drama 429632142
+2000 Dinosaur 65 6.4 Family 349822765
+2000 Gladiator 76 8.5 Drama 457640427
+2000 How the Grinch Stole Christmas 53 6 Fantasy 345141403
+2000 Meet the Parents 84 7 Comedy 330444045
+2000 Mission: Impossible II 57 6 Thriller 546388105
+2000 The Perfect Storm 47 6.4 Drama 328718434
+2000 What Lies Beneath 46 6.6 Mystery 291420351
+2000 What Women Want 54 6.4 Romance 374111707
+2000 X-Men 82 7.4 Sci-fi 296339527
+1999 American Beauty 88 8.4 Romance 356296601
+1999 Austin Powers: The Spy Who Shagged Me 51 6.6 Comedy 312016858
+1999 Notting Hill 83 7 Romance 363889678
+1999 Star Wars Episode I: The Phantom Menace 57 6.6 Fantasy 924317558
+1999 Tarzan 88 7.2 Drama 448191819
+1999 The Matrix 87 8.7 Sci-fi 460379930
+1999 The Mummy 55 7 Fantasy 415933406
+1999 The Sixth Sense 85 8.2 Thriller 672806292
+1999 The World Is Not Enough 51 6.4 Crime 361832400
+1999 Toy Story 2 100 7.9 Comedy 485015179
+1998 A Bug's Life 92 7.2 Comedy 363398565
+1998 Armageddon 39 6.6 Sci-fi 553709788
+1998 Deep Impact 48 6.1 Sci-fi 349464664
+1998 Dr. Dolittle 43 5.3 Fantasy 294456605
+1998 Godzilla 16 5.3 Thriller 379014294
+1998 Lethal Weapon 4 52 6.6 Thriller 285444603
+1998 Mulan 86 7.5 Family 304320254
+1998 Saving Private Ryan 93 8.6 War 481840909
+1998 Shakespeare in Love 92 7.2 Romance 289317794
+1998 There's Something About Mary 83 7.1 Romance 369884651
+1997 Air Force One 79 6.4 Drama 315156409
+1997 As Good as It Gets 86 7.8 Romance 314178011
+1997 Liar Liar 81 6.8 Comedy 302710615
+1997 Men in Black 92 7.2 Sci-fi 589390539
+1997 My Best Friend's Wedding 71 6.3 Romance 299288605
+1997 The Fifth Element 71 7.6 Sci-fi 263920180
+1997 The Full Monty 95 7.2 Music 257850122
+1997 The Lost World: Jurassic Park 52 6.5 Sci-fi 618638999
+1997 Titanic 88 7.7 Romance 1843201268
+1997 Tomorrow Never Dies 57 6.5 Thriller 333011068
+1996 101 Dalmatians 38 5.6 Family 320689294
+1996 Eraser 36 6 Mystery 242295562
+1996 Independence Day 60 6.9 Sci-fi 817400891
+1996 Jerry Maguire 85 7.3 Romance 273552592
+1996 Mission: Impossible 61 7.1 Thriller 457696359
+1996 Ransom 75 6.6 Thriller 309492681
+1996 The Hunchback of Notre Dame 73 6.9 Family 325338851
+1996 The Nutty Professor 65 5.5 Sci-fi 273961019
+1996 The Rock 66 7.4 Thriller 335062621
+1996 Twister 57 6.2 Drama 494471524
+1995 Apollo 13 95 7.6 History 353471312
+1995 Batman Forever 41 5.4 Fantasy 336529144
+1995 Casper 44 6 Fantasy 287928194
+1995 Die Hard with a Vengeance 51 7.6 Thriller 366101766
+1995 GoldenEye 82 7.2 Thriller 352194034
+1995 Jumanji 50 6.8 Fantasy 262797249
+1995 Pocahontas 56 6.6 Drama 346079773
+1995 Seven 79 8.7 Mystery 327311859
+1995 Toy Story 100 8.3 Comedy 361958736
+1995 Waterworld 42 6.1 Sci-fi 264218220
+1994 Clear and Present Danger 82 6.9 Drama 215887717
+1994 Dumb and Dumber 66 7.3 Comedy 247275374
+1994 Forrest Gump 72 8.8 Romance 677387716
+1994 Four Weddings and a Funeral 95 7.1 Romance 245700832
+1994 Interview with the Vampire: The Vampire Chronicles 61 7.6 Romance 223664608
+1994 Speed 93 7.2 Thriller 350448145
+1994 The Flintstones 21 4.8 Fantasy 341631208
+1994 The Lion King 90 8.5 Drama 768625889
+1994 The Mask 77 6.8 Fantasy 351583407
+1994 True Lies 72 7.2 Thriller 378882411
+1993 Cliffhanger 69 6.3 Thriller 255000211
+1993 Indecent Proposal 37 5.8 Romance 266614059
+1993 Jurassic Park 93 8 Thriller 914691118
+1993 Mrs. Doubtfire 71 6.9 Family 441286195
+1993 Philadelphia 78 7.7 Drama 206678440
+1993 Schindler's List 96 8.9 History 321306305
+1993 Sleepless in Seattle 72 6.8 Romance 227799884
+1993 The Firm 75 6.8 Thriller 270248367
+1993 The Fugitive 96 7.8 Crime 368875760
+1993 The Pelican Brief 52 6.5 Drama 195268056
+1992 A Few Good Men 81 7.6 Thriller 243240178
+1992 Aladdin 94 8 Comedy 504050219
+1992 Basic Instinct 54 6.9 Thriller 352927224
+1992 Batman Returns 80 7 Action 266822354
+1992 Bram Stoker's Dracula 79 7.5 Romance 215862692
+1992 Home Alone 2: Lost in New York 24 6.5 Family 358994850
+1992 Lethal Weapon 3 56 6.7 Thriller 321731527
+1992 Sister Act 71 6.2 Music 231605150
+1992 The Bodyguard 32 6.1 Music 411006740
+1992 Wayne's World 85 7 Music 183097323
+1991 Beauty and the Beast 93 8 Fantasy 351863363
+1991 Cape Fear 76 7.3 Thriller 182291969
+1991 City Slickers 90 6.7 Western 179033791
+1991 Hook 30 6.7 Family 300854823
+1991 Hot Shots! 83 6.7 Comedy 181096164
+1991 JFK 85 8 Thriller 205405498
+1991 Robin Hood: Prince of Thieves 50 6.9 Drama 390493908
+1991 Terminator 2: Judgment Day 92 8.5 Sci-fi 519843345
+1991 The Addams Family 60 6.8 Fantasy 191502426
+1991 The Silence of the Lambs 94 8.6 Thriller 272742922
+1990 Back to the Future Part III 73 7.4 Romance 244527583
+1990 Dances with Wolves 82 8 Western 424208848
+1990 Die Hard 2 69 7.1 Thriller 240031094
+1990 Ghost 74 7 Romance 505702588
+1990 Home Alone 54 7.4 Family 476684675
+1990 Kindergarten Cop 51 6 Crime 201957688
+1990 Presumed Innocent 85 6.9 Mystery 221303188
+1990 Pretty Woman 62 6.9 Romance 463406268
+1990 Teenage Mutant Ninja Turtles 41 6.7 Comedy 201965915
+1990 Total Recall 84 7.5 Action 261336002
+1989 Back to the Future Part II 64 7.8 Sci-fi 331950002
+1989 Batman 72 7.6 Adventure 411348924
+1989 Born on the Fourth of July 90 7.2 War 161001698
+1989 Dead Poets Society 85 8 Drama 235860116
+1989 Ghostbusters II 51 6.5 Horror 215394738
+1989 Honey I Shrunk the Kids 75 6.2 Family 222724172
+1989 Indiana Jones and the Last Crusade 88 8.3 Adventure 474171806
+1989 Lethal Weapon 2 83 7.2 Thriller 227853986
+1989 Look Who's Talking 58 5.8 Romance 296999813
+1989 The Little Mermaid 92 7.6 Fantasy 184155863
+1988 "Crocodile" Dundee II 11 5.5 Comedy 109306210
+1988 Beetlejuice 81 7.4 Comedy 73707461
+1988 Big 97 7.3 Fantasy 114968774
+1988 Cocktail 5 5.8 Romance 78222753
+1988 Coming to America 68 6.9 Romance 128152301
+1988 Die Hard 92 8.3 Thriller 83008852
+1988 Rain Man 90 8 Drama 172825435
+1988 The Naked Gun: From the Files of Police Squad! 86 7.6 Crime 78756177
+1988 Twins 36 5.9 Comedy 111938388
+1988 Who Framed Roger Rabbit 98 7.7 Crime 156452370
+1987 Beverly Hills Cop II 46 6.4 Crime 153665036
+1987 Fatal Attraction 78 6.9 Thriller 156645693
+1987 Good Morning Vietnam 89 7.3 War 123922370
+1987 Lethal Weapon 84 7.6 Thriller 65207127
+1987 Moonstruck 92 7.1 Romance 80640528
+1987 Stakeout 87 6.6 Thriller 65673230
+1987 The Secret of My Success 58 6.4 Comedy 66995000
+1987 The Untouchables 80 8 Thriller 76270454
+1987 The Witches of Eastwick 73 6.5 Horror 63766510
+1987 Three Men and a Baby 74 5.8 Family 167780960
+1986 "Crocodile" Dundee 89 6.5 Adventure 174803506
+1986 Aliens 98 8.4 Sci-fi 86160248
+1986 An American Tail 68 6.9 Drama 84542002
+1986 Back to School 84 6.5 Sport 91258000
+1986 Platoon 88 8.1 War 138530565
+1986 Ruthless People 94 6.8 Crime 71624879
+1986 Star Trek IV: The Voyage Home 85 7.3 Comedy 109713132
+1986 The Golden Child 26 5.8 Comedy 79817937
+1986 The Karate Kid Part II 43 5.8 Romance 115103979
+1986 Top Gun 54 6.8 Romance 176781728
+1985 Back to the Future 96 8.5 Romance 210609762
+1985 Cocoon 80 6.6 Sci-fi 85313124
+1985 Out Of Africa 53 7.2 Romance 87071205
+1985 Rambo: First Blood Part II 28 6.4 Thriller 150415432
+1985 Rocky IV 38 6.7 Sport 127873716
+1985 Spies Like Us 35 6.3 Comedy 60088980
+1985 The Color Purple 88 7.8 Drama 94175854
+1985 The Goonies 68 7.8 Family 61389680
+1985 The Jewel of the Nile 48 6 Comedy 75973200
+1985 Witness 91 7.5 Romance 68706993
+1984 Beverly Hills Cop 83 7.3 Comedy 234760478
+1984 Footloose 56 6.4 Romance 80035402
+1984 Ghostbusters 97 7.8 Fantasy 238632124
+1984 Gremlins 85 7.2 Horror 153083102
+1984 Indiana Jones and the Temple of Doom 84 7.6 Action 179870271
+1984 Police Academy 41 6.6 Comedy 81198894
+1984 Romancing the Stone 87 6.9 Comedy 78371200
+1984 Star Trek III: The Search for Spock 78 6.6 Sci-fi 76572238
+1984 The Karate Kid 90 7.2 Family 90815558
+1984 The Terminator 100 8.1 Sci-fi 78400000
+1983 Flashdance 33 6.1 Romance 92921203
+1983 Mr. Mom 85 6.4 Drama 64783827
+1983 Octopussy 42 6.6 Thriller 67800000
+1983 Risky Business 96 6.8 Drama 63541777
+1983 Star Wars Episode VI: Return of the Jedi 79 8.4 Fantasy 252583617
+1983 Staying Alive 0 4.4 Romance 64892670
+1983 Sudden Impact 56 6.6 Thriller 67642693
+1983 Terms of Endearment 88 7.4 Drama 108423489
+1983 Trading Places 88 7.5 Comedy 90404800
+1983 WarGames 92 7.1 Thriller 79567667
+1982 48 Hrs. 92 6.9 Crime 78868508
+1982 An Officer and a Gentleman 81 7 Romance 129795554
+1982 Annie 50 6.5 Family 57059003
+1982 E.T. the Extra-Terrestrial 98 7.9 Sci-fi 359197037
+1982 Poltergeist 88 7.4 Horror 76606280
+1982 Porky's 30 6.1 Comedy 105492483
+1982 Rocky III 61 6.7 Sport 124146897
+1982 Star Trek II: The Wrath of Khan 90 7.7 Drama 78912963
+1982 The Best Little Whorehouse in Texas 56 5.7 Musical 69701637
+1982 Tootsie 88 7.4 Romance 177200000
+1981 Arthur 90 6.9 Romance 95461682
+1981 Chariots of Fire 84 7.2 Sport 58972904
+1981 For Your Eyes Only 73 6.8 Thriller 54812802
+1981 On Golden Pond 92 7.7 Drama 119285432
+1981 Raiders of the Lost Ark 95 8.6 Adventure 212222025
+1981 Stripes 88 6.9 War 85297000
+1981 Superman II 89 6.8 Sci-fi 108185706
+1981 The Cannonball Run 31 6.1 Comedy 72179579
+1981 The Four Seasons 75 7.2 Drama 50427646
+1981 Time Bandits 91 7 Fantasy 42365581
+1980 9 to 5 82 6.6 Comedy 103290500
+1980 Airplane! 96 7.8 Comedy 83453539
+1980 Any Which Way You Can 20 6 Comedy 70687344
+1980 Coal Miner's Daughter 100 7.5 Music 67182787
+1980 Private Benjamin 88 6 War 69847348
+1980 Smokey and the Bandit II 20 5.1 Crime 66132626
+1980 Star Wars Episode V: The Empire Strikes Back 96 8.8 Adventure 209398025
+1980 Stir Crazy 67 6.8 Crime 101300000
+1980 The Blue Lagoon 11 5.7 Romance 58853106
+1980 The Blues Brothers 87 8 Crime 57229890
+1979 10 71 6 Romance 74865517
+1979 Alien 97 8.5 Sci-fi 80931801
+1979 Apocalypse Now 99 8.5 War 83471511
+1979 Kramer vs. Kramer 88 7.8 Drama 106260000
+1979 Moonraker 62 6.2 Crime 70308099
+1979 Rocky II 72 7.1 Sport 85182160
+1979 Star Trek: The Motion Picture 45 6.4 Sci-fi 82258456
+1979 The Amityville Horror 24 6.2 Horror 86432520
+1979 The Jerk 84 7.2 Comedy 73691419
+1979 The Muppet Movie 89 7.7 Family 65200000
+1978 Dawn of the Dead 95 8 Horror 59020957
+1978 Every Which Way but Loose 31 6.2 Comedy 85196485
+1978 Grease 79 7.2 Romance 159978870
+1978 Heaven Can Wait 88 6.9 Sport 81640278
+1978 Hooper 63 6.2 Comedy 78000000
+1978 Jaws 2 53 5.7 Thriller 77737272
+1978 National Lampoon's Animal House 91 7.6 Comedy 120091123
+1978 Revenge of the Pink Panther 82 6.7 Mystery 49579269
+1978 Superman 93 7.3 Sci-fi 134218018
+1978 The Deer Hunter 93 8.2 War 48979328
+1977 A Bridge Too Far 73 7.4 War 50750000
+1977 Annie Hall 98 8.1 Romance 38251425
+1977 Close Encounters of the Third Kind 96 7.7 Sci-fi 116395460
+1977 Oh God! 71 6.5 Fantasy 51061196
+1977 Saturday Night Fever 90 6.8 Romance 94213184
+1977 Smokey and the Bandit 81 6.8 Romance 126737428
+1977 Star Wars 93 8.7 Fantasy 307263857
+1977 The Deep 36 6.1 Thriller 47346365
+1977 The Goodbye Girl 87 7.4 Romance 102000000
+1977 The Spy Who Loved Me 78 7.1 Thriller 46838673
+1976 A Star Is Born 31 6.5 Romance 80000000
+1976 All the President's Men 98 8 Thriller 70600000
+1976 In Search of Noah's Ark 0 4.6 Family 55700000
+1976 King Kong 46 5.8 Horror 52614445
+1976 Midway 54 6.7 History 43220000
+1976 Rocky 92 8.1 Sport 117235147
+1976 Silver Streak 88 6.9 Crime 51079064
+1976 The Enforcer 78 6.8 Thriller 46236000
+1976 The Omen 86 7.6 Mystery 60922980
+1976 To Fly! 0 7 History 86600000
+1975 Aloha Bobby and Rose 0 6 Drama 35000000
+1975 Dog Day Afternoon 97 8.1 Drama 50000000
+1975 Funny Lady 38 6.4 Musical 39000000
+1975 Shampoo 63 6.3 Romance 49407734
+1975 The Apple Dumpling Gang 56 6.2 Western 36853000
+1975 The Other Side of the Mountain 0 6.4 Drama 34673100
+1975 The Return of the Pink Panther 89 7.1 Mystery 41833347
+2002 Signs 74 6.7 Thriller 408247917
+
+Choose one of the following options: 
+1. Filter by genre
+2. Filter by range of IMDB rating and Rotten Tomatoes score
+3. Get the highest grossing movie
+4. Print all movies
+5. Exit
+1
+What genre are you looking for? >> comedy
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.7
+Genre: Comedy
+Year: 2013
+Worldwide Box Office: 1274219009
+Title: Frozen
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.4
+Genre: Comedy
+Year: 2013
+Worldwide Box Office: 743559607
+Title: Monsters University
+
+Rotten Tomatoes Score: 37
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 2012
+Worldwide Box Office: 877244782
+Title: Ice Age: Continental Drift
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7
+Genre: Comedy
+Year: 2012
+Worldwide Box Office: 746921274
+Title: Madagascar 3: Europe's Most Wanted
+
+Rotten Tomatoes Score: 39
+IMDB Rating: 6.3
+Genre: Comedy
+Year: 2011
+Worldwide Box Office: 559852396
+Title: Cars 2
+
+Rotten Tomatoes Score: 34
+IMDB Rating: 6.5
+Genre: Comedy
+Year: 2011
+Worldwide Box Office: 586764305
+Title: The Hangover Part II
+
+Rotten Tomatoes Score: 22
+IMDB Rating: 5.5
+Genre: Comedy
+Year: 2011
+Worldwide Box Office: 563749323
+Title: The Smurfs
+
+Rotten Tomatoes Score: 58
+IMDB Rating: 6.4
+Genre: Comedy
+Year: 2010
+Worldwide Box Office: 752600867
+Title: Shrek Forever After
+
+Rotten Tomatoes Score: 99
+IMDB Rating: 8.4
+Genre: Comedy
+Year: 2010
+Worldwide Box Office: 1063171911
+Title: Toy Story 3
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.8
+Genre: Comedy
+Year: 2009
+Worldwide Box Office: 467483912
+Title: The Hangover
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8.3
+Genre: Comedy
+Year: 2009
+Worldwide Box Office: 731342744
+Title: Up
+
+Rotten Tomatoes Score: 40
+IMDB Rating: 6.1
+Genre: Comedy
+Year: 2007
+Worldwide Box Office: 798958162
+Title: Shrek the Third
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.4
+Genre: Comedy
+Year: 2007
+Worldwide Box Office: 527071022
+Title: The Simpsons Movie
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 2006
+Worldwide Box Office: 461983149
+Title: Cars
+
+Rotten Tomatoes Score: 44
+IMDB Rating: 6.4
+Genre: Comedy
+Year: 2006
+Worldwide Box Office: 574480052
+Title: Night at the Museum
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 2005
+Worldwide Box Office: 474968763
+Title: Charlie and the Chocolate Factory
+
+Rotten Tomatoes Score: 55
+IMDB Rating: 6.9
+Genre: Comedy
+Year: 2005
+Worldwide Box Office: 532680671
+Title: Madagascar
+
+Rotten Tomatoes Score: 35
+IMDB Rating: 6
+Genre: Comedy
+Year: 2004
+Worldwide Box Office: 367275019
+Title: Shark Tale
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 2004
+Worldwide Box Office: 919838758
+Title: Shrek 2
+
+Rotten Tomatoes Score: 99
+IMDB Rating: 8.2
+Genre: Comedy
+Year: 2003
+Worldwide Box Office: 867893978
+Title: Finding Nemo
+
+Rotten Tomatoes Score: 77
+IMDB Rating: 7.6
+Genre: Comedy
+Year: 2002
+Worldwide Box Office: 383257136
+Title: Ice Age
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.1
+Genre: Comedy
+Year: 2001
+Worldwide Box Office: 525366597
+Title: Monsters Inc.
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 7.9
+Genre: Comedy
+Year: 2001
+Worldwide Box Office: 484409218
+Title: Shrek
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7
+Genre: Comedy
+Year: 2000
+Worldwide Box Office: 330444045
+Title: Meet the Parents
+
+Rotten Tomatoes Score: 51
+IMDB Rating: 6.6
+Genre: Comedy
+Year: 1999
+Worldwide Box Office: 312016858
+Title: Austin Powers: The Spy Who Shagged Me
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 7.9
+Genre: Comedy
+Year: 1999
+Worldwide Box Office: 485015179
+Title: Toy Story 2
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 1998
+Worldwide Box Office: 363398565
+Title: A Bug's Life
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 6.8
+Genre: Comedy
+Year: 1997
+Worldwide Box Office: 302710615
+Title: Liar Liar
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 8.3
+Genre: Comedy
+Year: 1995
+Worldwide Box Office: 361958736
+Title: Toy Story
+
+Rotten Tomatoes Score: 66
+IMDB Rating: 7.3
+Genre: Comedy
+Year: 1994
+Worldwide Box Office: 247275374
+Title: Dumb and Dumber
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 8
+Genre: Comedy
+Year: 1992
+Worldwide Box Office: 504050219
+Title: Aladdin
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 1991
+Worldwide Box Office: 181096164
+Title: Hot Shots!
+
+Rotten Tomatoes Score: 41
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 1990
+Worldwide Box Office: 201965915
+Title: Teenage Mutant Ninja Turtles
+
+Rotten Tomatoes Score: 11
+IMDB Rating: 5.5
+Genre: Comedy
+Year: 1988
+Worldwide Box Office: 109306210
+Title: "Crocodile" Dundee II
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7.4
+Genre: Comedy
+Year: 1988
+Worldwide Box Office: 73707461
+Title: Beetlejuice
+
+Rotten Tomatoes Score: 36
+IMDB Rating: 5.9
+Genre: Comedy
+Year: 1988
+Worldwide Box Office: 111938388
+Title: Twins
+
+Rotten Tomatoes Score: 58
+IMDB Rating: 6.4
+Genre: Comedy
+Year: 1987
+Worldwide Box Office: 66995000
+Title: The Secret of My Success
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 7.3
+Genre: Comedy
+Year: 1986
+Worldwide Box Office: 109713132
+Title: Star Trek IV: The Voyage Home
+
+Rotten Tomatoes Score: 26
+IMDB Rating: 5.8
+Genre: Comedy
+Year: 1986
+Worldwide Box Office: 79817937
+Title: The Golden Child
+
+Rotten Tomatoes Score: 35
+IMDB Rating: 6.3
+Genre: Comedy
+Year: 1985
+Worldwide Box Office: 60088980
+Title: Spies Like Us
+
+Rotten Tomatoes Score: 48
+IMDB Rating: 6
+Genre: Comedy
+Year: 1985
+Worldwide Box Office: 75973200
+Title: The Jewel of the Nile
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.3
+Genre: Comedy
+Year: 1984
+Worldwide Box Office: 234760478
+Title: Beverly Hills Cop
+
+Rotten Tomatoes Score: 41
+IMDB Rating: 6.6
+Genre: Comedy
+Year: 1984
+Worldwide Box Office: 81198894
+Title: Police Academy
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 6.9
+Genre: Comedy
+Year: 1984
+Worldwide Box Office: 78371200
+Title: Romancing the Stone
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.5
+Genre: Comedy
+Year: 1983
+Worldwide Box Office: 90404800
+Title: Trading Places
+
+Rotten Tomatoes Score: 30
+IMDB Rating: 6.1
+Genre: Comedy
+Year: 1982
+Worldwide Box Office: 105492483
+Title: Porky's
+
+Rotten Tomatoes Score: 31
+IMDB Rating: 6.1
+Genre: Comedy
+Year: 1981
+Worldwide Box Office: 72179579
+Title: The Cannonball Run
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 6.6
+Genre: Comedy
+Year: 1980
+Worldwide Box Office: 103290500
+Title: 9 to 5
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 7.8
+Genre: Comedy
+Year: 1980
+Worldwide Box Office: 83453539
+Title: Airplane!
+
+Rotten Tomatoes Score: 20
+IMDB Rating: 6
+Genre: Comedy
+Year: 1980
+Worldwide Box Office: 70687344
+Title: Any Which Way You Can
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 1979
+Worldwide Box Office: 73691419
+Title: The Jerk
+
+Rotten Tomatoes Score: 31
+IMDB Rating: 6.2
+Genre: Comedy
+Year: 1978
+Worldwide Box Office: 85196485
+Title: Every Which Way but Loose
+
+Rotten Tomatoes Score: 63
+IMDB Rating: 6.2
+Genre: Comedy
+Year: 1978
+Worldwide Box Office: 78000000
+Title: Hooper
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 7.6
+Genre: Comedy
+Year: 1978
+Worldwide Box Office: 120091123
+Title: National Lampoon's Animal House
+
+54 results for Comedy
+
+Choose one of the following options: 
+1. Filter by genre
+2. Filter by range of IMDB rating and Rotten Tomatoes score
+3. Get the highest grossing movie
+4. Print all movies
+5. Exit
+2
+
+Enter the Min IMDB rating >>9
+Enter the Max IMDB rating >>8
+Invalid range. Try again.
+
+Enter the Min IMDB rating >>9 6
+Enter the Max IMDB rating >>10
+
+Enter the Min Rotten Tomatoes score >>60
+Enter the Max Rotten Tomatoes score >>100
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.8
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 714766572
+Title: Captain America: The Winter Soldier
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.7
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 708835589
+Title: Dawn of the Planet of the Apes
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 8.1
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 774176600
+Title: Guardians of the Galaxy
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 8.7
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 672974414
+Title: Interstellar
+
+Rotten Tomatoes Score: 61
+IMDB Rating: 7.5
+Genre: Fantasy
+Year: 2014
+Worldwide Box Office: 955113783
+Title: The Hobbit: The Battle of the Five Armies
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 6.8
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 752100229
+Title: The Hunger Games: Mockingjay - Part 1
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 8.1
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 748121534
+Title: X-Men: Days of Future Past
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 7.5
+Genre: Family
+Year: 2013
+Worldwide Box Office: 970761885
+Title: Despicable Me 2
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 2013
+Worldwide Box Office: 788679850
+Title: Fast & Furious 6
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.7
+Genre: Comedy
+Year: 2013
+Worldwide Box Office: 1274219009
+Title: Frozen
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 7.9
+Genre: Thriller
+Year: 2013
+Worldwide Box Office: 716392705
+Title: Gravity
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.3
+Genre: Sci-fi
+Year: 2013
+Worldwide Box Office: 1215439994
+Title: Iron Man 3
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.4
+Genre: Comedy
+Year: 2013
+Worldwide Box Office: 743559607
+Title: Monsters University
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 8
+Genre: Fantasy
+Year: 2013
+Worldwide Box Office: 960366855
+Title: The Hobbit: The Desolation of Smaug
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.7
+Genre: Adventure
+Year: 2013
+Worldwide Box Office: 864912963
+Title: The Hunger Games: Catching Fire
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 7.1
+Genre: Fantasy
+Year: 2013
+Worldwide Box Office: 644783140
+Title: Thor: The Dark World
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7
+Genre: Comedy
+Year: 2012
+Worldwide Box Office: 746921274
+Title: Madagascar 3: Europe's Most Wanted
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 6.9
+Genre: Sci-fi
+Year: 2012
+Worldwide Box Office: 624026776
+Title: Men in Black 3
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.8
+Genre: Thriller
+Year: 2012
+Worldwide Box Office: 1108561013
+Title: Skyfall
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 7.1
+Genre: Fantasy
+Year: 2012
+Worldwide Box Office: 757930663
+Title: The Amazing Spider-Man
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 8.2
+Genre: Sci-fi
+Year: 2012
+Worldwide Box Office: 1518594910
+Title: The Avengers
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 8.5
+Genre: Thriller
+Year: 2012
+Worldwide Box Office: 1084439099
+Title: The Dark Knight Rises
+
+Rotten Tomatoes Score: 64
+IMDB Rating: 8
+Genre: Fantasy
+Year: 2012
+Worldwide Box Office: 1017003568
+Title: The Hobbit: An Unexpected Journey
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.3
+Genre: Sci-fi
+Year: 2012
+Worldwide Box Office: 691247768
+Title: The Hunger Games
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.3
+Genre: Thriller
+Year: 2011
+Worldwide Box Office: 626137675
+Title: Fast Five
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.1
+Genre: Mystery
+Year: 2011
+Worldwide Box Office: 1341511219
+Title: Harry Potter and the Deathly Hallows - Part 2
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7.3
+Genre: Animation
+Year: 2011
+Worldwide Box Office: 665692281
+Title: Kung Fu Panda 2
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 7.4
+Genre: Thriller
+Year: 2011
+Worldwide Box Office: 694713380
+Title: Mission: Impossible - Ghost Protocol
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7.7
+Genre: Family
+Year: 2010
+Worldwide Box Office: 543113985
+Title: Despicable Me
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.7
+Genre: Fantasy
+Year: 2010
+Worldwide Box Office: 960283305
+Title: Harry Potter and the Deathly Hallows - Part 1
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8.2
+Genre: Family
+Year: 2010
+Worldwide Box Office: 494878759
+Title: How to Train Your Dragon
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 8.8
+Genre: Sci-fi
+Year: 2010
+Worldwide Box Office: 825531030
+Title: Inception
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 7.1
+Genre: Sci-fi
+Year: 2010
+Worldwide Box Office: 623933331
+Title: Iron Man 2
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.8
+Genre: Family
+Year: 2010
+Worldwide Box Office: 591794936
+Title: Tangled
+
+Rotten Tomatoes Score: 99
+IMDB Rating: 8.4
+Genre: Comedy
+Year: 2010
+Worldwide Box Office: 1063171911
+Title: Toy Story 3
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.9
+Genre: Fantasy
+Year: 2009
+Worldwide Box Office: 2749064328
+Title: Avatar
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.5
+Genre: Fantasy
+Year: 2009
+Worldwide Box Office: 934416487
+Title: Harry Potter and the Half-Blood Prince
+
+Rotten Tomatoes Score: 70
+IMDB Rating: 7.6
+Genre: Crime
+Year: 2009
+Worldwide Box Office: 524028679
+Title: Sherlock Holmes
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.8
+Genre: Comedy
+Year: 2009
+Worldwide Box Office: 467483912
+Title: The Hangover
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8.3
+Genre: Comedy
+Year: 2009
+Worldwide Box Office: 731342744
+Title: Up
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 6.2
+Genre: Adventure
+Year: 2008
+Worldwide Box Office: 786636033
+Title: Indiana Jones and the Kingdom of the Crystal Skull
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 7.9
+Genre: Sci-fi
+Year: 2008
+Worldwide Box Office: 585174222
+Title: Iron Man
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 7.6
+Genre: Animation
+Year: 2008
+Worldwide Box Office: 631744560
+Title: Kung Fu Panda
+
+Rotten Tomatoes Score: 64
+IMDB Rating: 6.7
+Genre: Animation
+Year: 2008
+Worldwide Box Office: 603900354
+Title: Madagascar: Escape 2 Africa
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 6.7
+Genre: Adventure
+Year: 2008
+Worldwide Box Office: 586090727
+Title: Quantum of Solace
+
+Rotten Tomatoes Score: 67
+IMDB Rating: 6.6
+Genre: Family
+Year: 2008
+Worldwide Box Office: 419665568
+Title: The Chronicles of Narnia: Prince Caspian
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 9
+Genre: Drama
+Year: 2008
+Worldwide Box Office: 997000000
+Title: The Dark Knight
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.4
+Genre: Family
+Year: 2008
+Worldwide Box Office: 521311860
+Title: WALL-E
+
+Rotten Tomatoes Score: 60
+IMDB Rating: 7.8
+Genre: War
+Year: 2007
+Worldwide Box Office: 456068181
+Title: 300
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.4
+Genre: Fantasy
+Year: 2007
+Worldwide Box Office: 939885929
+Title: Harry Potter and the Order of the Phoenix
+
+Rotten Tomatoes Score: 70
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 2007
+Worldwide Box Office: 585349010
+Title: I Am Legend
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8
+Genre: Family
+Year: 2007
+Worldwide Box Office: 623707397
+Title: Ratatouille
+
+Rotten Tomatoes Score: 63
+IMDB Rating: 6.2
+Genre: Adventure
+Year: 2007
+Worldwide Box Office: 890871626
+Title: Spider-Man 3
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.4
+Genre: Comedy
+Year: 2007
+Worldwide Box Office: 527071022
+Title: The Simpsons Movie
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 2006
+Worldwide Box Office: 461983149
+Title: Cars
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 8
+Genre: Thriller
+Year: 2006
+Worldwide Box Office: 599045960
+Title: Casino Royale
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 6.5
+Genre: Family
+Year: 2006
+Worldwide Box Office: 384335608
+Title: Happy Feet
+
+Rotten Tomatoes Score: 70
+IMDB Rating: 6.8
+Genre: Thriller
+Year: 2006
+Worldwide Box Office: 397850012
+Title: Mission: Impossible III
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 6.1
+Genre: Fantasy
+Year: 2006
+Worldwide Box Office: 391081192
+Title: Superman Returns
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 8.3
+Genre: Adventure
+Year: 2005
+Worldwide Box Office: 372710015
+Title: Batman Begins
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 2005
+Worldwide Box Office: 474968763
+Title: Charlie and the Chocolate Factory
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.6
+Genre: Fantasy
+Year: 2005
+Worldwide Box Office: 895921036
+Title: Harry Potter and the Goblet of Fire
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 6.7
+Genre: Romance
+Year: 2005
+Worldwide Box Office: 368100420
+Title: Hitch
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.3
+Genre: Drama
+Year: 2005
+Worldwide Box Office: 550517357
+Title: King Kong
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 7.7
+Genre: Fantasy
+Year: 2005
+Worldwide Box Office: 848754768
+Title: Star Wars Episode III: Revenge of the Sith
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 6.9
+Genre: Fantasy
+Year: 2005
+Worldwide Box Office: 745011272
+Title: The Chronicles of Narnia: The Lion the Witch and the Wardrobe
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 6.5
+Genre: Thriller
+Year: 2005
+Worldwide Box Office: 591745540
+Title: War of the Worlds
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 7.8
+Genre: Fantasy
+Year: 2004
+Worldwide Box Office: 795634069
+Title: Harry Potter and the Prisoner of Azkaban
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 2004
+Worldwide Box Office: 919838758
+Title: Shrek 2
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 7.3
+Genre: Adventure
+Year: 2004
+Worldwide Box Office: 783766341
+Title: Spider-Man 2
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 8
+Genre: Animation
+Year: 2004
+Worldwide Box Office: 631442092
+Title: The Incredibles
+
+Rotten Tomatoes Score: 99
+IMDB Rating: 8.2
+Genre: Comedy
+Year: 2003
+Worldwide Box Office: 867893978
+Title: Finding Nemo
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 8.1
+Genre: Fantasy
+Year: 2003
+Worldwide Box Office: 654264015
+Title: Pirates of the Caribbean: The Curse of the Black Pearl
+
+Rotten Tomatoes Score: 70
+IMDB Rating: 6.4
+Genre: Sci-fi
+Year: 2003
+Worldwide Box Office: 433371112
+Title: Terminator 3: Rise of the Machines
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 7.7
+Genre: History
+Year: 2003
+Worldwide Box Office: 456758981
+Title: The Last Samurai
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 8.9
+Genre: Fantasy
+Year: 2003
+Worldwide Box Office: 1119929521
+Title: The Lord of the Rings: The Return of the King
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 7.2
+Genre: Sci-fi
+Year: 2003
+Worldwide Box Office: 742128461
+Title: The Matrix Reloaded
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 7.5
+Genre: Sci-fi
+Year: 2003
+Worldwide Box Office: 407711549
+Title: X2
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 7.3
+Genre: Fantasy
+Year: 2002
+Worldwide Box Office: 878643482
+Title: Harry Potter and the Chamber of Secrets
+
+Rotten Tomatoes Score: 77
+IMDB Rating: 7.6
+Genre: Comedy
+Year: 2002
+Worldwide Box Office: 383257136
+Title: Ice Age
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.7
+Genre: Sci-fi
+Year: 2002
+Worldwide Box Office: 358372926
+Title: Minority Report
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 6.6
+Genre: Romance
+Year: 2002
+Worldwide Box Office: 368744044
+Title: My Big Fat Greek Wedding
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 6.7
+Genre: Thriller
+Year: 2002
+Worldwide Box Office: 408247917
+Title: Signs
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.3
+Genre: Adventure
+Year: 2002
+Worldwide Box Office: 821708551
+Title: Spider-Man
+
+Rotten Tomatoes Score: 67
+IMDB Rating: 6.7
+Genre: Fantasy
+Year: 2002
+Worldwide Box Office: 649398328
+Title: Star Wars Episode II: Attack of the Clones
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.7
+Genre: Fantasy
+Year: 2002
+Worldwide Box Office: 926287400
+Title: The Lord of the Rings: The Two Towers
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 7.5
+Genre: Fantasy
+Year: 2001
+Worldwide Box Office: 974733550
+Title: Harry Potter and the Sorcerer's Stone
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.1
+Genre: Comedy
+Year: 2001
+Worldwide Box Office: 525366597
+Title: Monsters Inc.
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 7.8
+Genre: Thriller
+Year: 2001
+Worldwide Box Office: 450717150
+Title: Ocean's Eleven
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 7.9
+Genre: Comedy
+Year: 2001
+Worldwide Box Office: 484409218
+Title: Shrek
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 8.8
+Genre: Fantasy
+Year: 2001
+Worldwide Box Office: 870761744
+Title: The Lord of the Rings: The Fellowship of the Ring
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.7
+Genre: Drama
+Year: 2000
+Worldwide Box Office: 429632142
+Title: Cast Away
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 6.4
+Genre: Family
+Year: 2000
+Worldwide Box Office: 349822765
+Title: Dinosaur
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 8.5
+Genre: Drama
+Year: 2000
+Worldwide Box Office: 457640427
+Title: Gladiator
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7
+Genre: Comedy
+Year: 2000
+Worldwide Box Office: 330444045
+Title: Meet the Parents
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 7.4
+Genre: Sci-fi
+Year: 2000
+Worldwide Box Office: 296339527
+Title: X-Men
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 8.4
+Genre: Romance
+Year: 1999
+Worldwide Box Office: 356296601
+Title: American Beauty
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7
+Genre: Romance
+Year: 1999
+Worldwide Box Office: 363889678
+Title: Notting Hill
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.2
+Genre: Drama
+Year: 1999
+Worldwide Box Office: 448191819
+Title: Tarzan
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 8.7
+Genre: Sci-fi
+Year: 1999
+Worldwide Box Office: 460379930
+Title: The Matrix
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 8.2
+Genre: Thriller
+Year: 1999
+Worldwide Box Office: 672806292
+Title: The Sixth Sense
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 7.9
+Genre: Comedy
+Year: 1999
+Worldwide Box Office: 485015179
+Title: Toy Story 2
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 1998
+Worldwide Box Office: 363398565
+Title: A Bug's Life
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 7.5
+Genre: Family
+Year: 1998
+Worldwide Box Office: 304320254
+Title: Mulan
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8.6
+Genre: War
+Year: 1998
+Worldwide Box Office: 481840909
+Title: Saving Private Ryan
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.2
+Genre: Romance
+Year: 1998
+Worldwide Box Office: 289317794
+Title: Shakespeare in Love
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.1
+Genre: Romance
+Year: 1998
+Worldwide Box Office: 369884651
+Title: There's Something About Mary
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 6.4
+Genre: Drama
+Year: 1997
+Worldwide Box Office: 315156409
+Title: Air Force One
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 7.8
+Genre: Romance
+Year: 1997
+Worldwide Box Office: 314178011
+Title: As Good as It Gets
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 6.8
+Genre: Comedy
+Year: 1997
+Worldwide Box Office: 302710615
+Title: Liar Liar
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.2
+Genre: Sci-fi
+Year: 1997
+Worldwide Box Office: 589390539
+Title: Men in Black
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6.3
+Genre: Romance
+Year: 1997
+Worldwide Box Office: 299288605
+Title: My Best Friend's Wedding
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 7.6
+Genre: Sci-fi
+Year: 1997
+Worldwide Box Office: 263920180
+Title: The Fifth Element
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 7.2
+Genre: Music
+Year: 1997
+Worldwide Box Office: 257850122
+Title: The Full Monty
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.7
+Genre: Romance
+Year: 1997
+Worldwide Box Office: 1843201268
+Title: Titanic
+
+Rotten Tomatoes Score: 60
+IMDB Rating: 6.9
+Genre: Sci-fi
+Year: 1996
+Worldwide Box Office: 817400891
+Title: Independence Day
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 7.3
+Genre: Romance
+Year: 1996
+Worldwide Box Office: 273552592
+Title: Jerry Maguire
+
+Rotten Tomatoes Score: 61
+IMDB Rating: 7.1
+Genre: Thriller
+Year: 1996
+Worldwide Box Office: 457696359
+Title: Mission: Impossible
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 6.6
+Genre: Thriller
+Year: 1996
+Worldwide Box Office: 309492681
+Title: Ransom
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 6.9
+Genre: Family
+Year: 1996
+Worldwide Box Office: 325338851
+Title: The Hunchback of Notre Dame
+
+Rotten Tomatoes Score: 66
+IMDB Rating: 7.4
+Genre: Thriller
+Year: 1996
+Worldwide Box Office: 335062621
+Title: The Rock
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 7.6
+Genre: History
+Year: 1995
+Worldwide Box Office: 353471312
+Title: Apollo 13
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 1995
+Worldwide Box Office: 352194034
+Title: GoldenEye
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 8.7
+Genre: Mystery
+Year: 1995
+Worldwide Box Office: 327311859
+Title: Seven
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 8.3
+Genre: Comedy
+Year: 1995
+Worldwide Box Office: 361958736
+Title: Toy Story
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 6.9
+Genre: Drama
+Year: 1994
+Worldwide Box Office: 215887717
+Title: Clear and Present Danger
+
+Rotten Tomatoes Score: 66
+IMDB Rating: 7.3
+Genre: Comedy
+Year: 1994
+Worldwide Box Office: 247275374
+Title: Dumb and Dumber
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 8.8
+Genre: Romance
+Year: 1994
+Worldwide Box Office: 677387716
+Title: Forrest Gump
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 7.1
+Genre: Romance
+Year: 1994
+Worldwide Box Office: 245700832
+Title: Four Weddings and a Funeral
+
+Rotten Tomatoes Score: 61
+IMDB Rating: 7.6
+Genre: Romance
+Year: 1994
+Worldwide Box Office: 223664608
+Title: Interview with the Vampire: The Vampire Chronicles
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 1994
+Worldwide Box Office: 350448145
+Title: Speed
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 8.5
+Genre: Drama
+Year: 1994
+Worldwide Box Office: 768625889
+Title: The Lion King
+
+Rotten Tomatoes Score: 77
+IMDB Rating: 6.8
+Genre: Fantasy
+Year: 1994
+Worldwide Box Office: 351583407
+Title: The Mask
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 1994
+Worldwide Box Office: 378882411
+Title: True Lies
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 6.3
+Genre: Thriller
+Year: 1993
+Worldwide Box Office: 255000211
+Title: Cliffhanger
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8
+Genre: Thriller
+Year: 1993
+Worldwide Box Office: 914691118
+Title: Jurassic Park
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6.9
+Genre: Family
+Year: 1993
+Worldwide Box Office: 441286195
+Title: Mrs. Doubtfire
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.7
+Genre: Drama
+Year: 1993
+Worldwide Box Office: 206678440
+Title: Philadelphia
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.9
+Genre: History
+Year: 1993
+Worldwide Box Office: 321306305
+Title: Schindler's List
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 6.8
+Genre: Romance
+Year: 1993
+Worldwide Box Office: 227799884
+Title: Sleepless in Seattle
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 6.8
+Genre: Thriller
+Year: 1993
+Worldwide Box Office: 270248367
+Title: The Firm
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 7.8
+Genre: Crime
+Year: 1993
+Worldwide Box Office: 368875760
+Title: The Fugitive
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7.6
+Genre: Thriller
+Year: 1992
+Worldwide Box Office: 243240178
+Title: A Few Good Men
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 8
+Genre: Comedy
+Year: 1992
+Worldwide Box Office: 504050219
+Title: Aladdin
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 7
+Genre: Action
+Year: 1992
+Worldwide Box Office: 266822354
+Title: Batman Returns
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.5
+Genre: Romance
+Year: 1992
+Worldwide Box Office: 215862692
+Title: Bram Stoker's Dracula
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6.2
+Genre: Music
+Year: 1992
+Worldwide Box Office: 231605150
+Title: Sister Act
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 7
+Genre: Music
+Year: 1992
+Worldwide Box Office: 183097323
+Title: Wayne's World
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8
+Genre: Fantasy
+Year: 1991
+Worldwide Box Office: 351863363
+Title: Beauty and the Beast
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 7.3
+Genre: Thriller
+Year: 1991
+Worldwide Box Office: 182291969
+Title: Cape Fear
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 6.7
+Genre: Western
+Year: 1991
+Worldwide Box Office: 179033791
+Title: City Slickers
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 1991
+Worldwide Box Office: 181096164
+Title: Hot Shots!
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 8
+Genre: Thriller
+Year: 1991
+Worldwide Box Office: 205405498
+Title: JFK
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 8.5
+Genre: Sci-fi
+Year: 1991
+Worldwide Box Office: 519843345
+Title: Terminator 2: Judgment Day
+
+Rotten Tomatoes Score: 60
+IMDB Rating: 6.8
+Genre: Fantasy
+Year: 1991
+Worldwide Box Office: 191502426
+Title: The Addams Family
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 8.6
+Genre: Thriller
+Year: 1991
+Worldwide Box Office: 272742922
+Title: The Silence of the Lambs
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 7.4
+Genre: Romance
+Year: 1990
+Worldwide Box Office: 244527583
+Title: Back to the Future Part III
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 8
+Genre: Western
+Year: 1990
+Worldwide Box Office: 424208848
+Title: Dances with Wolves
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 7.1
+Genre: Thriller
+Year: 1990
+Worldwide Box Office: 240031094
+Title: Die Hard 2
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 7
+Genre: Romance
+Year: 1990
+Worldwide Box Office: 505702588
+Title: Ghost
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 6.9
+Genre: Mystery
+Year: 1990
+Worldwide Box Office: 221303188
+Title: Presumed Innocent
+
+Rotten Tomatoes Score: 62
+IMDB Rating: 6.9
+Genre: Romance
+Year: 1990
+Worldwide Box Office: 463406268
+Title: Pretty Woman
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.5
+Genre: Action
+Year: 1990
+Worldwide Box Office: 261336002
+Title: Total Recall
+
+Rotten Tomatoes Score: 64
+IMDB Rating: 7.8
+Genre: Sci-fi
+Year: 1989
+Worldwide Box Office: 331950002
+Title: Back to the Future Part II
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 7.6
+Genre: Adventure
+Year: 1989
+Worldwide Box Office: 411348924
+Title: Batman
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.2
+Genre: War
+Year: 1989
+Worldwide Box Office: 161001698
+Title: Born on the Fourth of July
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 8
+Genre: Drama
+Year: 1989
+Worldwide Box Office: 235860116
+Title: Dead Poets Society
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 6.2
+Genre: Family
+Year: 1989
+Worldwide Box Office: 222724172
+Title: Honey I Shrunk the Kids
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 8.3
+Genre: Adventure
+Year: 1989
+Worldwide Box Office: 474171806
+Title: Indiana Jones and the Last Crusade
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 1989
+Worldwide Box Office: 227853986
+Title: Lethal Weapon 2
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.6
+Genre: Fantasy
+Year: 1989
+Worldwide Box Office: 184155863
+Title: The Little Mermaid
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7.4
+Genre: Comedy
+Year: 1988
+Worldwide Box Office: 73707461
+Title: Beetlejuice
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 7.3
+Genre: Fantasy
+Year: 1988
+Worldwide Box Office: 114968774
+Title: Big
+
+Rotten Tomatoes Score: 68
+IMDB Rating: 6.9
+Genre: Romance
+Year: 1988
+Worldwide Box Office: 128152301
+Title: Coming to America
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 8.3
+Genre: Thriller
+Year: 1988
+Worldwide Box Office: 83008852
+Title: Die Hard
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 8
+Genre: Drama
+Year: 1988
+Worldwide Box Office: 172825435
+Title: Rain Man
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 7.6
+Genre: Crime
+Year: 1988
+Worldwide Box Office: 78756177
+Title: The Naked Gun: From the Files of Police Squad!
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 7.7
+Genre: Crime
+Year: 1988
+Worldwide Box Office: 156452370
+Title: Who Framed Roger Rabbit
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 6.9
+Genre: Thriller
+Year: 1987
+Worldwide Box Office: 156645693
+Title: Fatal Attraction
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.3
+Genre: War
+Year: 1987
+Worldwide Box Office: 123922370
+Title: Good Morning Vietnam
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.6
+Genre: Thriller
+Year: 1987
+Worldwide Box Office: 65207127
+Title: Lethal Weapon
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.1
+Genre: Romance
+Year: 1987
+Worldwide Box Office: 80640528
+Title: Moonstruck
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 6.6
+Genre: Thriller
+Year: 1987
+Worldwide Box Office: 65673230
+Title: Stakeout
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 8
+Genre: Thriller
+Year: 1987
+Worldwide Box Office: 76270454
+Title: The Untouchables
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 6.5
+Genre: Horror
+Year: 1987
+Worldwide Box Office: 63766510
+Title: The Witches of Eastwick
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 6.5
+Genre: Adventure
+Year: 1986
+Worldwide Box Office: 174803506
+Title: "Crocodile" Dundee
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8.4
+Genre: Sci-fi
+Year: 1986
+Worldwide Box Office: 86160248
+Title: Aliens
+
+Rotten Tomatoes Score: 68
+IMDB Rating: 6.9
+Genre: Drama
+Year: 1986
+Worldwide Box Office: 84542002
+Title: An American Tail
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 6.5
+Genre: Sport
+Year: 1986
+Worldwide Box Office: 91258000
+Title: Back to School
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 8.1
+Genre: War
+Year: 1986
+Worldwide Box Office: 138530565
+Title: Platoon
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 6.8
+Genre: Crime
+Year: 1986
+Worldwide Box Office: 71624879
+Title: Ruthless People
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 7.3
+Genre: Comedy
+Year: 1986
+Worldwide Box Office: 109713132
+Title: Star Trek IV: The Voyage Home
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.5
+Genre: Romance
+Year: 1985
+Worldwide Box Office: 210609762
+Title: Back to the Future
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 6.6
+Genre: Sci-fi
+Year: 1985
+Worldwide Box Office: 85313124
+Title: Cocoon
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.8
+Genre: Drama
+Year: 1985
+Worldwide Box Office: 94175854
+Title: The Color Purple
+
+Rotten Tomatoes Score: 68
+IMDB Rating: 7.8
+Genre: Family
+Year: 1985
+Worldwide Box Office: 61389680
+Title: The Goonies
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 7.5
+Genre: Romance
+Year: 1985
+Worldwide Box Office: 68706993
+Title: Witness
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.3
+Genre: Comedy
+Year: 1984
+Worldwide Box Office: 234760478
+Title: Beverly Hills Cop
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 7.8
+Genre: Fantasy
+Year: 1984
+Worldwide Box Office: 238632124
+Title: Ghostbusters
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 7.2
+Genre: Horror
+Year: 1984
+Worldwide Box Office: 153083102
+Title: Gremlins
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.6
+Genre: Action
+Year: 1984
+Worldwide Box Office: 179870271
+Title: Indiana Jones and the Temple of Doom
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 6.9
+Genre: Comedy
+Year: 1984
+Worldwide Box Office: 78371200
+Title: Romancing the Stone
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 6.6
+Genre: Sci-fi
+Year: 1984
+Worldwide Box Office: 76572238
+Title: Star Trek III: The Search for Spock
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.2
+Genre: Family
+Year: 1984
+Worldwide Box Office: 90815558
+Title: The Karate Kid
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 8.1
+Genre: Sci-fi
+Year: 1984
+Worldwide Box Office: 78400000
+Title: The Terminator
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 6.4
+Genre: Drama
+Year: 1983
+Worldwide Box Office: 64783827
+Title: Mr. Mom
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 6.8
+Genre: Drama
+Year: 1983
+Worldwide Box Office: 63541777
+Title: Risky Business
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 8.4
+Genre: Fantasy
+Year: 1983
+Worldwide Box Office: 252583617
+Title: Star Wars Episode VI: Return of the Jedi
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.4
+Genre: Drama
+Year: 1983
+Worldwide Box Office: 108423489
+Title: Terms of Endearment
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.5
+Genre: Comedy
+Year: 1983
+Worldwide Box Office: 90404800
+Title: Trading Places
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.1
+Genre: Thriller
+Year: 1983
+Worldwide Box Office: 79567667
+Title: WarGames
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 6.9
+Genre: Crime
+Year: 1982
+Worldwide Box Office: 78868508
+Title: 48 Hrs.
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7
+Genre: Romance
+Year: 1982
+Worldwide Box Office: 129795554
+Title: An Officer and a Gentleman
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 7.9
+Genre: Sci-fi
+Year: 1982
+Worldwide Box Office: 359197037
+Title: E.T. the Extra-Terrestrial
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.4
+Genre: Horror
+Year: 1982
+Worldwide Box Office: 76606280
+Title: Poltergeist
+
+Rotten Tomatoes Score: 61
+IMDB Rating: 6.7
+Genre: Sport
+Year: 1982
+Worldwide Box Office: 124146897
+Title: Rocky III
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.7
+Genre: Drama
+Year: 1982
+Worldwide Box Office: 78912963
+Title: Star Trek II: The Wrath of Khan
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.4
+Genre: Romance
+Year: 1982
+Worldwide Box Office: 177200000
+Title: Tootsie
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 6.9
+Genre: Romance
+Year: 1981
+Worldwide Box Office: 95461682
+Title: Arthur
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.2
+Genre: Sport
+Year: 1981
+Worldwide Box Office: 58972904
+Title: Chariots of Fire
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 6.8
+Genre: Thriller
+Year: 1981
+Worldwide Box Office: 54812802
+Title: For Your Eyes Only
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.7
+Genre: Drama
+Year: 1981
+Worldwide Box Office: 119285432
+Title: On Golden Pond
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 8.6
+Genre: Adventure
+Year: 1981
+Worldwide Box Office: 212222025
+Title: Raiders of the Lost Ark
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 6.9
+Genre: War
+Year: 1981
+Worldwide Box Office: 85297000
+Title: Stripes
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 6.8
+Genre: Sci-fi
+Year: 1981
+Worldwide Box Office: 108185706
+Title: Superman II
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 7.2
+Genre: Drama
+Year: 1981
+Worldwide Box Office: 50427646
+Title: The Four Seasons
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 7
+Genre: Fantasy
+Year: 1981
+Worldwide Box Office: 42365581
+Title: Time Bandits
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 6.6
+Genre: Comedy
+Year: 1980
+Worldwide Box Office: 103290500
+Title: 9 to 5
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 7.8
+Genre: Comedy
+Year: 1980
+Worldwide Box Office: 83453539
+Title: Airplane!
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 7.5
+Genre: Music
+Year: 1980
+Worldwide Box Office: 67182787
+Title: Coal Miner's Daughter
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 6
+Genre: War
+Year: 1980
+Worldwide Box Office: 69847348
+Title: Private Benjamin
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.8
+Genre: Adventure
+Year: 1980
+Worldwide Box Office: 209398025
+Title: Star Wars Episode V: The Empire Strikes Back
+
+Rotten Tomatoes Score: 67
+IMDB Rating: 6.8
+Genre: Crime
+Year: 1980
+Worldwide Box Office: 101300000
+Title: Stir Crazy
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 8
+Genre: Crime
+Year: 1980
+Worldwide Box Office: 57229890
+Title: The Blues Brothers
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6
+Genre: Romance
+Year: 1979
+Worldwide Box Office: 74865517
+Title: 10
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 8.5
+Genre: Sci-fi
+Year: 1979
+Worldwide Box Office: 80931801
+Title: Alien
+
+Rotten Tomatoes Score: 99
+IMDB Rating: 8.5
+Genre: War
+Year: 1979
+Worldwide Box Office: 83471511
+Title: Apocalypse Now
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.8
+Genre: Drama
+Year: 1979
+Worldwide Box Office: 106260000
+Title: Kramer vs. Kramer
+
+Rotten Tomatoes Score: 62
+IMDB Rating: 6.2
+Genre: Crime
+Year: 1979
+Worldwide Box Office: 70308099
+Title: Moonraker
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 7.1
+Genre: Sport
+Year: 1979
+Worldwide Box Office: 85182160
+Title: Rocky II
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 1979
+Worldwide Box Office: 73691419
+Title: The Jerk
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.7
+Genre: Family
+Year: 1979
+Worldwide Box Office: 65200000
+Title: The Muppet Movie
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 8
+Genre: Horror
+Year: 1978
+Worldwide Box Office: 59020957
+Title: Dawn of the Dead
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.2
+Genre: Romance
+Year: 1978
+Worldwide Box Office: 159978870
+Title: Grease
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 6.9
+Genre: Sport
+Year: 1978
+Worldwide Box Office: 81640278
+Title: Heaven Can Wait
+
+Rotten Tomatoes Score: 63
+IMDB Rating: 6.2
+Genre: Comedy
+Year: 1978
+Worldwide Box Office: 78000000
+Title: Hooper
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 7.6
+Genre: Comedy
+Year: 1978
+Worldwide Box Office: 120091123
+Title: National Lampoon's Animal House
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 6.7
+Genre: Mystery
+Year: 1978
+Worldwide Box Office: 49579269
+Title: Revenge of the Pink Panther
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 7.3
+Genre: Sci-fi
+Year: 1978
+Worldwide Box Office: 134218018
+Title: Superman
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8.2
+Genre: War
+Year: 1978
+Worldwide Box Office: 48979328
+Title: The Deer Hunter
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 7.4
+Genre: War
+Year: 1977
+Worldwide Box Office: 50750000
+Title: A Bridge Too Far
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8.1
+Genre: Romance
+Year: 1977
+Worldwide Box Office: 38251425
+Title: Annie Hall
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 7.7
+Genre: Sci-fi
+Year: 1977
+Worldwide Box Office: 116395460
+Title: Close Encounters of the Third Kind
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6.5
+Genre: Fantasy
+Year: 1977
+Worldwide Box Office: 51061196
+Title: Oh God!
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 6.8
+Genre: Romance
+Year: 1977
+Worldwide Box Office: 94213184
+Title: Saturday Night Fever
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 6.8
+Genre: Romance
+Year: 1977
+Worldwide Box Office: 126737428
+Title: Smokey and the Bandit
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8.7
+Genre: Fantasy
+Year: 1977
+Worldwide Box Office: 307263857
+Title: Star Wars
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 7.4
+Genre: Romance
+Year: 1977
+Worldwide Box Office: 102000000
+Title: The Goodbye Girl
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.1
+Genre: Thriller
+Year: 1977
+Worldwide Box Office: 46838673
+Title: The Spy Who Loved Me
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8
+Genre: Thriller
+Year: 1976
+Worldwide Box Office: 70600000
+Title: All the President's Men
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 8.1
+Genre: Sport
+Year: 1976
+Worldwide Box Office: 117235147
+Title: Rocky
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 6.9
+Genre: Crime
+Year: 1976
+Worldwide Box Office: 51079064
+Title: Silver Streak
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 6.8
+Genre: Thriller
+Year: 1976
+Worldwide Box Office: 46236000
+Title: The Enforcer
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 7.6
+Genre: Mystery
+Year: 1976
+Worldwide Box Office: 60922980
+Title: The Omen
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 8.1
+Genre: Drama
+Year: 1975
+Worldwide Box Office: 50000000
+Title: Dog Day Afternoon
+
+Rotten Tomatoes Score: 63
+IMDB Rating: 6.3
+Genre: Romance
+Year: 1975
+Worldwide Box Office: 49407734
+Title: Shampoo
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.1
+Genre: Mystery
+Year: 1975
+Worldwide Box Office: 41833347
+Title: The Return of the Pink Panther
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 6.7
+Genre: Thriller
+Year: 2002
+Worldwide Box Office: 408247917
+Title: Signs
+
+
+268 results for IMDB 6-10 and Rotten Tomatoes 60-100
+
+Choose one of the following options: 
+1. Filter by genre
+2. Filter by range of IMDB rating and Rotten Tomatoes score
+3. Get the highest grossing movie
+4. Print all movies
+5. Exit
+3
+Displaying results for Highest Grossing movie:
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.9
+Genre: Fantasy
+Year: 2009
+Worldwide Box Office: 2749064328
+Title: Avatar
+
+Choose one of the following options: 
+1. Filter by genre
+2. Filter by range of IMDB rating and Rotten Tomatoes score
+3. Get the highest grossing movie
+4. Print all movies
+5. Exit
+4
+Displaying all movies:
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.8
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 714766572
+Title: Captain America: The Winter Soldier
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.7
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 708835589
+Title: Dawn of the Planet of the Apes
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 8.1
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 774176600
+Title: Guardians of the Galaxy
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 8.7
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 672974414
+Title: Interstellar
+
+Rotten Tomatoes Score: 49
+IMDB Rating: 7.1
+Genre: Family
+Year: 2014
+Worldwide Box Office: 758654942
+Title: Maleficent
+
+Rotten Tomatoes Score: 53
+IMDB Rating: 6.9
+Genre: Fantasy
+Year: 2014
+Worldwide Box Office: 709582323
+Title: The Amazing Spider-Man 2
+
+Rotten Tomatoes Score: 61
+IMDB Rating: 7.5
+Genre: Fantasy
+Year: 2014
+Worldwide Box Office: 955113783
+Title: The Hobbit: The Battle of the Five Armies
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 6.8
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 752100229
+Title: The Hunger Games: Mockingjay - Part 1
+
+Rotten Tomatoes Score: 18
+IMDB Rating: 5.8
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 1091404499
+Title: Transformers: Age of Extinction
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 8.1
+Genre: Sci-fi
+Year: 2014
+Worldwide Box Office: 748121534
+Title: X-Men: Days of Future Past
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 7.5
+Genre: Family
+Year: 2013
+Worldwide Box Office: 970761885
+Title: Despicable Me 2
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 2013
+Worldwide Box Office: 788679850
+Title: Fast & Furious 6
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.7
+Genre: Comedy
+Year: 2013
+Worldwide Box Office: 1274219009
+Title: Frozen
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 7.9
+Genre: Thriller
+Year: 2013
+Worldwide Box Office: 716392705
+Title: Gravity
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.3
+Genre: Sci-fi
+Year: 2013
+Worldwide Box Office: 1215439994
+Title: Iron Man 3
+
+Rotten Tomatoes Score: 56
+IMDB Rating: 7.2
+Genre: Fantasy
+Year: 2013
+Worldwide Box Office: 668045518
+Title: Man of Steel
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.4
+Genre: Comedy
+Year: 2013
+Worldwide Box Office: 743559607
+Title: Monsters University
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 8
+Genre: Fantasy
+Year: 2013
+Worldwide Box Office: 960366855
+Title: The Hobbit: The Desolation of Smaug
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.7
+Genre: Adventure
+Year: 2013
+Worldwide Box Office: 864912963
+Title: The Hunger Games: Catching Fire
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 7.1
+Genre: Fantasy
+Year: 2013
+Worldwide Box Office: 644783140
+Title: Thor: The Dark World
+
+Rotten Tomatoes Score: 37
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 2012
+Worldwide Box Office: 877244782
+Title: Ice Age: Continental Drift
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7
+Genre: Comedy
+Year: 2012
+Worldwide Box Office: 746921274
+Title: Madagascar 3: Europe's Most Wanted
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 6.9
+Genre: Sci-fi
+Year: 2012
+Worldwide Box Office: 624026776
+Title: Men in Black 3
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.8
+Genre: Thriller
+Year: 2012
+Worldwide Box Office: 1108561013
+Title: Skyfall
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 7.1
+Genre: Fantasy
+Year: 2012
+Worldwide Box Office: 757930663
+Title: The Amazing Spider-Man
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 8.2
+Genre: Sci-fi
+Year: 2012
+Worldwide Box Office: 1518594910
+Title: The Avengers
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 8.5
+Genre: Thriller
+Year: 2012
+Worldwide Box Office: 1084439099
+Title: The Dark Knight Rises
+
+Rotten Tomatoes Score: 64
+IMDB Rating: 8
+Genre: Fantasy
+Year: 2012
+Worldwide Box Office: 1017003568
+Title: The Hobbit: An Unexpected Journey
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.3
+Genre: Sci-fi
+Year: 2012
+Worldwide Box Office: 691247768
+Title: The Hunger Games
+
+Rotten Tomatoes Score: 48
+IMDB Rating: 5.6
+Genre: Fantasy
+Year: 2012
+Worldwide Box Office: 829685377
+Title: The Twilight Saga: Breaking Dawn - Part 2
+
+Rotten Tomatoes Score: 39
+IMDB Rating: 6.3
+Genre: Comedy
+Year: 2011
+Worldwide Box Office: 559852396
+Title: Cars 2
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.3
+Genre: Thriller
+Year: 2011
+Worldwide Box Office: 626137675
+Title: Fast Five
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.1
+Genre: Mystery
+Year: 2011
+Worldwide Box Office: 1341511219
+Title: Harry Potter and the Deathly Hallows - Part 2
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7.3
+Genre: Animation
+Year: 2011
+Worldwide Box Office: 665692281
+Title: Kung Fu Panda 2
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 7.4
+Genre: Thriller
+Year: 2011
+Worldwide Box Office: 694713380
+Title: Mission: Impossible - Ghost Protocol
+
+Rotten Tomatoes Score: 33
+IMDB Rating: 6.7
+Genre: Fantasy
+Year: 2011
+Worldwide Box Office: 1045713802
+Title: Pirates of the Caribbean: On Stranger Tides
+
+Rotten Tomatoes Score: 34
+IMDB Rating: 6.5
+Genre: Comedy
+Year: 2011
+Worldwide Box Office: 586764305
+Title: The Hangover Part II
+
+Rotten Tomatoes Score: 22
+IMDB Rating: 5.5
+Genre: Comedy
+Year: 2011
+Worldwide Box Office: 563749323
+Title: The Smurfs
+
+Rotten Tomatoes Score: 0
+IMDB Rating: 4.9
+Genre: Fantasy
+Year: 2011
+Worldwide Box Office: 712171856
+Title: The Twilight Saga: Breaking Dawn - Part 1
+
+Rotten Tomatoes Score: 35
+IMDB Rating: 6.3
+Genre: Sci-fi
+Year: 2011
+Worldwide Box Office: 1123794079
+Title: Transformers: Dark of the Moon
+
+Rotten Tomatoes Score: 51
+IMDB Rating: 6.5
+Genre: Fantasy
+Year: 2010
+Worldwide Box Office: 1025467110
+Title: Alice in Wonderland
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7.7
+Genre: Family
+Year: 2010
+Worldwide Box Office: 543113985
+Title: Despicable Me
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.7
+Genre: Fantasy
+Year: 2010
+Worldwide Box Office: 960283305
+Title: Harry Potter and the Deathly Hallows - Part 1
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8.2
+Genre: Family
+Year: 2010
+Worldwide Box Office: 494878759
+Title: How to Train Your Dragon
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 8.8
+Genre: Sci-fi
+Year: 2010
+Worldwide Box Office: 825531030
+Title: Inception
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 7.1
+Genre: Sci-fi
+Year: 2010
+Worldwide Box Office: 623933331
+Title: Iron Man 2
+
+Rotten Tomatoes Score: 58
+IMDB Rating: 6.4
+Genre: Comedy
+Year: 2010
+Worldwide Box Office: 752600867
+Title: Shrek Forever After
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.8
+Genre: Family
+Year: 2010
+Worldwide Box Office: 591794936
+Title: Tangled
+
+Rotten Tomatoes Score: 49
+IMDB Rating: 4.9
+Genre: Fantasy
+Year: 2010
+Worldwide Box Office: 698491347
+Title: The Twilight Saga: Eclipse
+
+Rotten Tomatoes Score: 99
+IMDB Rating: 8.4
+Genre: Comedy
+Year: 2010
+Worldwide Box Office: 1063171911
+Title: Toy Story 3
+
+Rotten Tomatoes Score: 39
+IMDB Rating: 5.8
+Genre: Sci-fi
+Year: 2009
+Worldwide Box Office: 769304749
+Title: 2012
+
+Rotten Tomatoes Score: 37
+IMDB Rating: 6.7
+Genre: Thriller
+Year: 2009
+Worldwide Box Office: 485930816
+Title: Angels & Demons
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.9
+Genre: Fantasy
+Year: 2009
+Worldwide Box Office: 2749064328
+Title: Avatar
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.5
+Genre: Fantasy
+Year: 2009
+Worldwide Box Office: 934416487
+Title: Harry Potter and the Half-Blood Prince
+
+Rotten Tomatoes Score: 45
+IMDB Rating: 7
+Genre: Animation
+Year: 2009
+Worldwide Box Office: 886686817
+Title: Ice Age: Dawn of the Dinosaurs
+
+Rotten Tomatoes Score: 70
+IMDB Rating: 7.6
+Genre: Crime
+Year: 2009
+Worldwide Box Office: 524028679
+Title: Sherlock Holmes
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.8
+Genre: Comedy
+Year: 2009
+Worldwide Box Office: 467483912
+Title: The Hangover
+
+Rotten Tomatoes Score: 28
+IMDB Rating: 4.6
+Genre: Fantasy
+Year: 2009
+Worldwide Box Office: 709827462
+Title: The Twilight Saga: New Moon
+
+Rotten Tomatoes Score: 19
+IMDB Rating: 6
+Genre: Sci-fi
+Year: 2009
+Worldwide Box Office: 836303693
+Title: Transformers: Revenge of the Fallen
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8.3
+Genre: Comedy
+Year: 2009
+Worldwide Box Office: 731342744
+Title: Up
+
+Rotten Tomatoes Score: 41
+IMDB Rating: 6.5
+Genre: Fantasy
+Year: 2008
+Worldwide Box Office: 624386746
+Title: Hancock
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 6.2
+Genre: Adventure
+Year: 2008
+Worldwide Box Office: 786636033
+Title: Indiana Jones and the Kingdom of the Crystal Skull
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 7.9
+Genre: Sci-fi
+Year: 2008
+Worldwide Box Office: 585174222
+Title: Iron Man
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 7.6
+Genre: Animation
+Year: 2008
+Worldwide Box Office: 631744560
+Title: Kung Fu Panda
+
+Rotten Tomatoes Score: 64
+IMDB Rating: 6.7
+Genre: Animation
+Year: 2008
+Worldwide Box Office: 603900354
+Title: Madagascar: Escape 2 Africa
+
+Rotten Tomatoes Score: 54
+IMDB Rating: 6.4
+Genre: Romance
+Year: 2008
+Worldwide Box Office: 609827661
+Title: Mamma Mia!
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 6.7
+Genre: Adventure
+Year: 2008
+Worldwide Box Office: 586090727
+Title: Quantum of Solace
+
+Rotten Tomatoes Score: 67
+IMDB Rating: 6.6
+Genre: Family
+Year: 2008
+Worldwide Box Office: 419665568
+Title: The Chronicles of Narnia: Prince Caspian
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 9
+Genre: Drama
+Year: 2008
+Worldwide Box Office: 997000000
+Title: The Dark Knight
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.4
+Genre: Family
+Year: 2008
+Worldwide Box Office: 521311860
+Title: WALL-E
+
+Rotten Tomatoes Score: 60
+IMDB Rating: 7.8
+Genre: War
+Year: 2007
+Worldwide Box Office: 456068181
+Title: 300
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.4
+Genre: Fantasy
+Year: 2007
+Worldwide Box Office: 939885929
+Title: Harry Potter and the Order of the Phoenix
+
+Rotten Tomatoes Score: 70
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 2007
+Worldwide Box Office: 585349010
+Title: I Am Legend
+
+Rotten Tomatoes Score: 35
+IMDB Rating: 6.5
+Genre: Mystery
+Year: 2007
+Worldwide Box Office: 457364600
+Title: National Treasure: Book of Secrets
+
+Rotten Tomatoes Score: 45
+IMDB Rating: 7.1
+Genre: Fantasy
+Year: 2007
+Worldwide Box Office: 963420425
+Title: Pirates of the Caribbean: At World's End
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8
+Genre: Family
+Year: 2007
+Worldwide Box Office: 623707397
+Title: Ratatouille
+
+Rotten Tomatoes Score: 40
+IMDB Rating: 6.1
+Genre: Comedy
+Year: 2007
+Worldwide Box Office: 798958162
+Title: Shrek the Third
+
+Rotten Tomatoes Score: 63
+IMDB Rating: 6.2
+Genre: Adventure
+Year: 2007
+Worldwide Box Office: 890871626
+Title: Spider-Man 3
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.4
+Genre: Comedy
+Year: 2007
+Worldwide Box Office: 527071022
+Title: The Simpsons Movie
+
+Rotten Tomatoes Score: 57
+IMDB Rating: 7.2
+Genre: Sci-fi
+Year: 2007
+Worldwide Box Office: 709709780
+Title: Transformers
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 2006
+Worldwide Box Office: 461983149
+Title: Cars
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 8
+Genre: Thriller
+Year: 2006
+Worldwide Box Office: 599045960
+Title: Casino Royale
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 6.5
+Genre: Family
+Year: 2006
+Worldwide Box Office: 384335608
+Title: Happy Feet
+
+Rotten Tomatoes Score: 57
+IMDB Rating: 6.9
+Genre: Animation
+Year: 2006
+Worldwide Box Office: 660940780
+Title: Ice Age: The Meltdown
+
+Rotten Tomatoes Score: 70
+IMDB Rating: 6.8
+Genre: Thriller
+Year: 2006
+Worldwide Box Office: 397850012
+Title: Mission: Impossible III
+
+Rotten Tomatoes Score: 44
+IMDB Rating: 6.4
+Genre: Comedy
+Year: 2006
+Worldwide Box Office: 574480052
+Title: Night at the Museum
+
+Rotten Tomatoes Score: 54
+IMDB Rating: 7.3
+Genre: Fantasy
+Year: 2006
+Worldwide Box Office: 1066179725
+Title: Pirates of the Caribbean: Dead Man's Chest
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 6.1
+Genre: Fantasy
+Year: 2006
+Worldwide Box Office: 391081192
+Title: Superman Returns
+
+Rotten Tomatoes Score: 25
+IMDB Rating: 6.5
+Genre: Thriller
+Year: 2006
+Worldwide Box Office: 758239851
+Title: The Da Vinci Code
+
+Rotten Tomatoes Score: 58
+IMDB Rating: 6.8
+Genre: Sci-fi
+Year: 2006
+Worldwide Box Office: 459359555
+Title: X-Men: The Last Stand
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 8.3
+Genre: Adventure
+Year: 2005
+Worldwide Box Office: 372710015
+Title: Batman Begins
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 2005
+Worldwide Box Office: 474968763
+Title: Charlie and the Chocolate Factory
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.6
+Genre: Fantasy
+Year: 2005
+Worldwide Box Office: 895921036
+Title: Harry Potter and the Goblet of Fire
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 6.7
+Genre: Romance
+Year: 2005
+Worldwide Box Office: 368100420
+Title: Hitch
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.3
+Genre: Drama
+Year: 2005
+Worldwide Box Office: 550517357
+Title: King Kong
+
+Rotten Tomatoes Score: 55
+IMDB Rating: 6.9
+Genre: Comedy
+Year: 2005
+Worldwide Box Office: 532680671
+Title: Madagascar
+
+Rotten Tomatoes Score: 59
+IMDB Rating: 6.5
+Genre: Crime
+Year: 2005
+Worldwide Box Office: 478207520
+Title: Mr. & Mrs. Smith
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 7.7
+Genre: Fantasy
+Year: 2005
+Worldwide Box Office: 848754768
+Title: Star Wars Episode III: Revenge of the Sith
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 6.9
+Genre: Fantasy
+Year: 2005
+Worldwide Box Office: 745011272
+Title: The Chronicles of Narnia: The Lion the Witch and the Wardrobe
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 6.5
+Genre: Thriller
+Year: 2005
+Worldwide Box Office: 591745540
+Title: War of the Worlds
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 7.8
+Genre: Fantasy
+Year: 2004
+Worldwide Box Office: 795634069
+Title: Harry Potter and the Prisoner of Azkaban
+
+Rotten Tomatoes Score: 38
+IMDB Rating: 6.3
+Genre: Romance
+Year: 2004
+Worldwide Box Office: 516642939
+Title: Meet the Fockers
+
+Rotten Tomatoes Score: 55
+IMDB Rating: 6.4
+Genre: Thriller
+Year: 2004
+Worldwide Box Office: 362744280
+Title: Ocean's Twelve
+
+Rotten Tomatoes Score: 35
+IMDB Rating: 6
+Genre: Comedy
+Year: 2004
+Worldwide Box Office: 367275019
+Title: Shark Tale
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 2004
+Worldwide Box Office: 919838758
+Title: Shrek 2
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 7.3
+Genre: Adventure
+Year: 2004
+Worldwide Box Office: 783766341
+Title: Spider-Man 2
+
+Rotten Tomatoes Score: 45
+IMDB Rating: 6.4
+Genre: Sci-fi
+Year: 2004
+Worldwide Box Office: 544272402
+Title: The Day After Tomorrow
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 8
+Genre: Animation
+Year: 2004
+Worldwide Box Office: 631442092
+Title: The Incredibles
+
+Rotten Tomatoes Score: 49
+IMDB Rating: 7.1
+Genre: Drama
+Year: 2004
+Worldwide Box Office: 611899420
+Title: The Passion of the Christ
+
+Rotten Tomatoes Score: 54
+IMDB Rating: 7.2
+Genre: Adventure
+Year: 2004
+Worldwide Box Office: 497409852
+Title: Troy
+
+Rotten Tomatoes Score: 23
+IMDB Rating: 6.5
+Genre: Crime
+Year: 2003
+Worldwide Box Office: 273339556
+Title: Bad Boys II
+
+Rotten Tomatoes Score: 48
+IMDB Rating: 6.7
+Genre: Fantasy
+Year: 2003
+Worldwide Box Office: 484592874
+Title: Bruce Almighty
+
+Rotten Tomatoes Score: 99
+IMDB Rating: 8.2
+Genre: Comedy
+Year: 2003
+Worldwide Box Office: 867893978
+Title: Finding Nemo
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 8.1
+Genre: Fantasy
+Year: 2003
+Worldwide Box Office: 654264015
+Title: Pirates of the Caribbean: The Curse of the Black Pearl
+
+Rotten Tomatoes Score: 70
+IMDB Rating: 6.4
+Genre: Sci-fi
+Year: 2003
+Worldwide Box Office: 433371112
+Title: Terminator 3: Rise of the Machines
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 7.7
+Genre: History
+Year: 2003
+Worldwide Box Office: 456758981
+Title: The Last Samurai
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 8.9
+Genre: Fantasy
+Year: 2003
+Worldwide Box Office: 1119929521
+Title: The Lord of the Rings: The Return of the King
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 7.2
+Genre: Sci-fi
+Year: 2003
+Worldwide Box Office: 742128461
+Title: The Matrix Reloaded
+
+Rotten Tomatoes Score: 36
+IMDB Rating: 6.7
+Genre: Sci-fi
+Year: 2003
+Worldwide Box Office: 427343298
+Title: The Matrix Revolutions
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 7.5
+Genre: Sci-fi
+Year: 2003
+Worldwide Box Office: 407711549
+Title: X2
+
+Rotten Tomatoes Score: 57
+IMDB Rating: 6.1
+Genre: Crime
+Year: 2002
+Worldwide Box Office: 431971116
+Title: Die Another Day
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 7.3
+Genre: Fantasy
+Year: 2002
+Worldwide Box Office: 878643482
+Title: Harry Potter and the Chamber of Secrets
+
+Rotten Tomatoes Score: 77
+IMDB Rating: 7.6
+Genre: Comedy
+Year: 2002
+Worldwide Box Office: 383257136
+Title: Ice Age
+
+Rotten Tomatoes Score: 39
+IMDB Rating: 6
+Genre: Fantasy
+Year: 2002
+Worldwide Box Office: 441818803
+Title: Men in Black II
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.7
+Genre: Sci-fi
+Year: 2002
+Worldwide Box Office: 358372926
+Title: Minority Report
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 6.6
+Genre: Romance
+Year: 2002
+Worldwide Box Office: 368744044
+Title: My Big Fat Greek Wedding
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 6.7
+Genre: Thriller
+Year: 2002
+Worldwide Box Office: 408247917
+Title: Signs
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.3
+Genre: Adventure
+Year: 2002
+Worldwide Box Office: 821708551
+Title: Spider-Man
+
+Rotten Tomatoes Score: 67
+IMDB Rating: 6.7
+Genre: Fantasy
+Year: 2002
+Worldwide Box Office: 649398328
+Title: Star Wars Episode II: Attack of the Clones
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.7
+Genre: Fantasy
+Year: 2002
+Worldwide Box Office: 926287400
+Title: The Lord of the Rings: The Two Towers
+
+Rotten Tomatoes Score: 39
+IMDB Rating: 6.7
+Genre: Thriller
+Year: 2001
+Worldwide Box Office: 351692268
+Title: Hannibal
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 7.5
+Genre: Fantasy
+Year: 2001
+Worldwide Box Office: 974733550
+Title: Harry Potter and the Sorcerer's Stone
+
+Rotten Tomatoes Score: 49
+IMDB Rating: 5.9
+Genre: Sci-fi
+Year: 2001
+Worldwide Box Office: 368780809
+Title: Jurassic Park III
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.1
+Genre: Comedy
+Year: 2001
+Worldwide Box Office: 525366597
+Title: Monsters Inc.
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 7.8
+Genre: Thriller
+Year: 2001
+Worldwide Box Office: 450717150
+Title: Ocean's Eleven
+
+Rotten Tomatoes Score: 25
+IMDB Rating: 6
+Genre: Romance
+Year: 2001
+Worldwide Box Office: 449220945
+Title: Pearl Harbor
+
+Rotten Tomatoes Score: 45
+IMDB Rating: 5.7
+Genre: Sci-fi
+Year: 2001
+Worldwide Box Office: 362211740
+Title: Planet of the Apes
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 7.9
+Genre: Comedy
+Year: 2001
+Worldwide Box Office: 484409218
+Title: Shrek
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 8.8
+Genre: Fantasy
+Year: 2001
+Worldwide Box Office: 870761744
+Title: The Lord of the Rings: The Fellowship of the Ring
+
+Rotten Tomatoes Score: 47
+IMDB Rating: 6.3
+Genre: Fantasy
+Year: 2001
+Worldwide Box Office: 433013274
+Title: The Mummy Returns
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.7
+Genre: Drama
+Year: 2000
+Worldwide Box Office: 429632142
+Title: Cast Away
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 6.4
+Genre: Family
+Year: 2000
+Worldwide Box Office: 349822765
+Title: Dinosaur
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 8.5
+Genre: Drama
+Year: 2000
+Worldwide Box Office: 457640427
+Title: Gladiator
+
+Rotten Tomatoes Score: 53
+IMDB Rating: 6
+Genre: Fantasy
+Year: 2000
+Worldwide Box Office: 345141403
+Title: How the Grinch Stole Christmas
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7
+Genre: Comedy
+Year: 2000
+Worldwide Box Office: 330444045
+Title: Meet the Parents
+
+Rotten Tomatoes Score: 57
+IMDB Rating: 6
+Genre: Thriller
+Year: 2000
+Worldwide Box Office: 546388105
+Title: Mission: Impossible II
+
+Rotten Tomatoes Score: 47
+IMDB Rating: 6.4
+Genre: Drama
+Year: 2000
+Worldwide Box Office: 328718434
+Title: The Perfect Storm
+
+Rotten Tomatoes Score: 46
+IMDB Rating: 6.6
+Genre: Mystery
+Year: 2000
+Worldwide Box Office: 291420351
+Title: What Lies Beneath
+
+Rotten Tomatoes Score: 54
+IMDB Rating: 6.4
+Genre: Romance
+Year: 2000
+Worldwide Box Office: 374111707
+Title: What Women Want
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 7.4
+Genre: Sci-fi
+Year: 2000
+Worldwide Box Office: 296339527
+Title: X-Men
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 8.4
+Genre: Romance
+Year: 1999
+Worldwide Box Office: 356296601
+Title: American Beauty
+
+Rotten Tomatoes Score: 51
+IMDB Rating: 6.6
+Genre: Comedy
+Year: 1999
+Worldwide Box Office: 312016858
+Title: Austin Powers: The Spy Who Shagged Me
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7
+Genre: Romance
+Year: 1999
+Worldwide Box Office: 363889678
+Title: Notting Hill
+
+Rotten Tomatoes Score: 57
+IMDB Rating: 6.6
+Genre: Fantasy
+Year: 1999
+Worldwide Box Office: 924317558
+Title: Star Wars Episode I: The Phantom Menace
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.2
+Genre: Drama
+Year: 1999
+Worldwide Box Office: 448191819
+Title: Tarzan
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 8.7
+Genre: Sci-fi
+Year: 1999
+Worldwide Box Office: 460379930
+Title: The Matrix
+
+Rotten Tomatoes Score: 55
+IMDB Rating: 7
+Genre: Fantasy
+Year: 1999
+Worldwide Box Office: 415933406
+Title: The Mummy
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 8.2
+Genre: Thriller
+Year: 1999
+Worldwide Box Office: 672806292
+Title: The Sixth Sense
+
+Rotten Tomatoes Score: 51
+IMDB Rating: 6.4
+Genre: Crime
+Year: 1999
+Worldwide Box Office: 361832400
+Title: The World Is Not Enough
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 7.9
+Genre: Comedy
+Year: 1999
+Worldwide Box Office: 485015179
+Title: Toy Story 2
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 1998
+Worldwide Box Office: 363398565
+Title: A Bug's Life
+
+Rotten Tomatoes Score: 39
+IMDB Rating: 6.6
+Genre: Sci-fi
+Year: 1998
+Worldwide Box Office: 553709788
+Title: Armageddon
+
+Rotten Tomatoes Score: 48
+IMDB Rating: 6.1
+Genre: Sci-fi
+Year: 1998
+Worldwide Box Office: 349464664
+Title: Deep Impact
+
+Rotten Tomatoes Score: 43
+IMDB Rating: 5.3
+Genre: Fantasy
+Year: 1998
+Worldwide Box Office: 294456605
+Title: Dr. Dolittle
+
+Rotten Tomatoes Score: 16
+IMDB Rating: 5.3
+Genre: Thriller
+Year: 1998
+Worldwide Box Office: 379014294
+Title: Godzilla
+
+Rotten Tomatoes Score: 52
+IMDB Rating: 6.6
+Genre: Thriller
+Year: 1998
+Worldwide Box Office: 285444603
+Title: Lethal Weapon 4
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 7.5
+Genre: Family
+Year: 1998
+Worldwide Box Office: 304320254
+Title: Mulan
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8.6
+Genre: War
+Year: 1998
+Worldwide Box Office: 481840909
+Title: Saving Private Ryan
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.2
+Genre: Romance
+Year: 1998
+Worldwide Box Office: 289317794
+Title: Shakespeare in Love
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.1
+Genre: Romance
+Year: 1998
+Worldwide Box Office: 369884651
+Title: There's Something About Mary
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 6.4
+Genre: Drama
+Year: 1997
+Worldwide Box Office: 315156409
+Title: Air Force One
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 7.8
+Genre: Romance
+Year: 1997
+Worldwide Box Office: 314178011
+Title: As Good as It Gets
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 6.8
+Genre: Comedy
+Year: 1997
+Worldwide Box Office: 302710615
+Title: Liar Liar
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.2
+Genre: Sci-fi
+Year: 1997
+Worldwide Box Office: 589390539
+Title: Men in Black
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6.3
+Genre: Romance
+Year: 1997
+Worldwide Box Office: 299288605
+Title: My Best Friend's Wedding
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 7.6
+Genre: Sci-fi
+Year: 1997
+Worldwide Box Office: 263920180
+Title: The Fifth Element
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 7.2
+Genre: Music
+Year: 1997
+Worldwide Box Office: 257850122
+Title: The Full Monty
+
+Rotten Tomatoes Score: 52
+IMDB Rating: 6.5
+Genre: Sci-fi
+Year: 1997
+Worldwide Box Office: 618638999
+Title: The Lost World: Jurassic Park
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.7
+Genre: Romance
+Year: 1997
+Worldwide Box Office: 1843201268
+Title: Titanic
+
+Rotten Tomatoes Score: 57
+IMDB Rating: 6.5
+Genre: Thriller
+Year: 1997
+Worldwide Box Office: 333011068
+Title: Tomorrow Never Dies
+
+Rotten Tomatoes Score: 38
+IMDB Rating: 5.6
+Genre: Family
+Year: 1996
+Worldwide Box Office: 320689294
+Title: 101 Dalmatians
+
+Rotten Tomatoes Score: 36
+IMDB Rating: 6
+Genre: Mystery
+Year: 1996
+Worldwide Box Office: 242295562
+Title: Eraser
+
+Rotten Tomatoes Score: 60
+IMDB Rating: 6.9
+Genre: Sci-fi
+Year: 1996
+Worldwide Box Office: 817400891
+Title: Independence Day
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 7.3
+Genre: Romance
+Year: 1996
+Worldwide Box Office: 273552592
+Title: Jerry Maguire
+
+Rotten Tomatoes Score: 61
+IMDB Rating: 7.1
+Genre: Thriller
+Year: 1996
+Worldwide Box Office: 457696359
+Title: Mission: Impossible
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 6.6
+Genre: Thriller
+Year: 1996
+Worldwide Box Office: 309492681
+Title: Ransom
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 6.9
+Genre: Family
+Year: 1996
+Worldwide Box Office: 325338851
+Title: The Hunchback of Notre Dame
+
+Rotten Tomatoes Score: 65
+IMDB Rating: 5.5
+Genre: Sci-fi
+Year: 1996
+Worldwide Box Office: 273961019
+Title: The Nutty Professor
+
+Rotten Tomatoes Score: 66
+IMDB Rating: 7.4
+Genre: Thriller
+Year: 1996
+Worldwide Box Office: 335062621
+Title: The Rock
+
+Rotten Tomatoes Score: 57
+IMDB Rating: 6.2
+Genre: Drama
+Year: 1996
+Worldwide Box Office: 494471524
+Title: Twister
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 7.6
+Genre: History
+Year: 1995
+Worldwide Box Office: 353471312
+Title: Apollo 13
+
+Rotten Tomatoes Score: 41
+IMDB Rating: 5.4
+Genre: Fantasy
+Year: 1995
+Worldwide Box Office: 336529144
+Title: Batman Forever
+
+Rotten Tomatoes Score: 44
+IMDB Rating: 6
+Genre: Fantasy
+Year: 1995
+Worldwide Box Office: 287928194
+Title: Casper
+
+Rotten Tomatoes Score: 51
+IMDB Rating: 7.6
+Genre: Thriller
+Year: 1995
+Worldwide Box Office: 366101766
+Title: Die Hard with a Vengeance
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 1995
+Worldwide Box Office: 352194034
+Title: GoldenEye
+
+Rotten Tomatoes Score: 50
+IMDB Rating: 6.8
+Genre: Fantasy
+Year: 1995
+Worldwide Box Office: 262797249
+Title: Jumanji
+
+Rotten Tomatoes Score: 56
+IMDB Rating: 6.6
+Genre: Drama
+Year: 1995
+Worldwide Box Office: 346079773
+Title: Pocahontas
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 8.7
+Genre: Mystery
+Year: 1995
+Worldwide Box Office: 327311859
+Title: Seven
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 8.3
+Genre: Comedy
+Year: 1995
+Worldwide Box Office: 361958736
+Title: Toy Story
+
+Rotten Tomatoes Score: 42
+IMDB Rating: 6.1
+Genre: Sci-fi
+Year: 1995
+Worldwide Box Office: 264218220
+Title: Waterworld
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 6.9
+Genre: Drama
+Year: 1994
+Worldwide Box Office: 215887717
+Title: Clear and Present Danger
+
+Rotten Tomatoes Score: 66
+IMDB Rating: 7.3
+Genre: Comedy
+Year: 1994
+Worldwide Box Office: 247275374
+Title: Dumb and Dumber
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 8.8
+Genre: Romance
+Year: 1994
+Worldwide Box Office: 677387716
+Title: Forrest Gump
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 7.1
+Genre: Romance
+Year: 1994
+Worldwide Box Office: 245700832
+Title: Four Weddings and a Funeral
+
+Rotten Tomatoes Score: 61
+IMDB Rating: 7.6
+Genre: Romance
+Year: 1994
+Worldwide Box Office: 223664608
+Title: Interview with the Vampire: The Vampire Chronicles
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 1994
+Worldwide Box Office: 350448145
+Title: Speed
+
+Rotten Tomatoes Score: 21
+IMDB Rating: 4.8
+Genre: Fantasy
+Year: 1994
+Worldwide Box Office: 341631208
+Title: The Flintstones
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 8.5
+Genre: Drama
+Year: 1994
+Worldwide Box Office: 768625889
+Title: The Lion King
+
+Rotten Tomatoes Score: 77
+IMDB Rating: 6.8
+Genre: Fantasy
+Year: 1994
+Worldwide Box Office: 351583407
+Title: The Mask
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 1994
+Worldwide Box Office: 378882411
+Title: True Lies
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 6.3
+Genre: Thriller
+Year: 1993
+Worldwide Box Office: 255000211
+Title: Cliffhanger
+
+Rotten Tomatoes Score: 37
+IMDB Rating: 5.8
+Genre: Romance
+Year: 1993
+Worldwide Box Office: 266614059
+Title: Indecent Proposal
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8
+Genre: Thriller
+Year: 1993
+Worldwide Box Office: 914691118
+Title: Jurassic Park
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6.9
+Genre: Family
+Year: 1993
+Worldwide Box Office: 441286195
+Title: Mrs. Doubtfire
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.7
+Genre: Drama
+Year: 1993
+Worldwide Box Office: 206678440
+Title: Philadelphia
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.9
+Genre: History
+Year: 1993
+Worldwide Box Office: 321306305
+Title: Schindler's List
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 6.8
+Genre: Romance
+Year: 1993
+Worldwide Box Office: 227799884
+Title: Sleepless in Seattle
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 6.8
+Genre: Thriller
+Year: 1993
+Worldwide Box Office: 270248367
+Title: The Firm
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 7.8
+Genre: Crime
+Year: 1993
+Worldwide Box Office: 368875760
+Title: The Fugitive
+
+Rotten Tomatoes Score: 52
+IMDB Rating: 6.5
+Genre: Drama
+Year: 1993
+Worldwide Box Office: 195268056
+Title: The Pelican Brief
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7.6
+Genre: Thriller
+Year: 1992
+Worldwide Box Office: 243240178
+Title: A Few Good Men
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 8
+Genre: Comedy
+Year: 1992
+Worldwide Box Office: 504050219
+Title: Aladdin
+
+Rotten Tomatoes Score: 54
+IMDB Rating: 6.9
+Genre: Thriller
+Year: 1992
+Worldwide Box Office: 352927224
+Title: Basic Instinct
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 7
+Genre: Action
+Year: 1992
+Worldwide Box Office: 266822354
+Title: Batman Returns
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.5
+Genre: Romance
+Year: 1992
+Worldwide Box Office: 215862692
+Title: Bram Stoker's Dracula
+
+Rotten Tomatoes Score: 24
+IMDB Rating: 6.5
+Genre: Family
+Year: 1992
+Worldwide Box Office: 358994850
+Title: Home Alone 2: Lost in New York
+
+Rotten Tomatoes Score: 56
+IMDB Rating: 6.7
+Genre: Thriller
+Year: 1992
+Worldwide Box Office: 321731527
+Title: Lethal Weapon 3
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6.2
+Genre: Music
+Year: 1992
+Worldwide Box Office: 231605150
+Title: Sister Act
+
+Rotten Tomatoes Score: 32
+IMDB Rating: 6.1
+Genre: Music
+Year: 1992
+Worldwide Box Office: 411006740
+Title: The Bodyguard
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 7
+Genre: Music
+Year: 1992
+Worldwide Box Office: 183097323
+Title: Wayne's World
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8
+Genre: Fantasy
+Year: 1991
+Worldwide Box Office: 351863363
+Title: Beauty and the Beast
+
+Rotten Tomatoes Score: 76
+IMDB Rating: 7.3
+Genre: Thriller
+Year: 1991
+Worldwide Box Office: 182291969
+Title: Cape Fear
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 6.7
+Genre: Western
+Year: 1991
+Worldwide Box Office: 179033791
+Title: City Slickers
+
+Rotten Tomatoes Score: 30
+IMDB Rating: 6.7
+Genre: Family
+Year: 1991
+Worldwide Box Office: 300854823
+Title: Hook
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 1991
+Worldwide Box Office: 181096164
+Title: Hot Shots!
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 8
+Genre: Thriller
+Year: 1991
+Worldwide Box Office: 205405498
+Title: JFK
+
+Rotten Tomatoes Score: 50
+IMDB Rating: 6.9
+Genre: Drama
+Year: 1991
+Worldwide Box Office: 390493908
+Title: Robin Hood: Prince of Thieves
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 8.5
+Genre: Sci-fi
+Year: 1991
+Worldwide Box Office: 519843345
+Title: Terminator 2: Judgment Day
+
+Rotten Tomatoes Score: 60
+IMDB Rating: 6.8
+Genre: Fantasy
+Year: 1991
+Worldwide Box Office: 191502426
+Title: The Addams Family
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 8.6
+Genre: Thriller
+Year: 1991
+Worldwide Box Office: 272742922
+Title: The Silence of the Lambs
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 7.4
+Genre: Romance
+Year: 1990
+Worldwide Box Office: 244527583
+Title: Back to the Future Part III
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 8
+Genre: Western
+Year: 1990
+Worldwide Box Office: 424208848
+Title: Dances with Wolves
+
+Rotten Tomatoes Score: 69
+IMDB Rating: 7.1
+Genre: Thriller
+Year: 1990
+Worldwide Box Office: 240031094
+Title: Die Hard 2
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 7
+Genre: Romance
+Year: 1990
+Worldwide Box Office: 505702588
+Title: Ghost
+
+Rotten Tomatoes Score: 54
+IMDB Rating: 7.4
+Genre: Family
+Year: 1990
+Worldwide Box Office: 476684675
+Title: Home Alone
+
+Rotten Tomatoes Score: 51
+IMDB Rating: 6
+Genre: Crime
+Year: 1990
+Worldwide Box Office: 201957688
+Title: Kindergarten Cop
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 6.9
+Genre: Mystery
+Year: 1990
+Worldwide Box Office: 221303188
+Title: Presumed Innocent
+
+Rotten Tomatoes Score: 62
+IMDB Rating: 6.9
+Genre: Romance
+Year: 1990
+Worldwide Box Office: 463406268
+Title: Pretty Woman
+
+Rotten Tomatoes Score: 41
+IMDB Rating: 6.7
+Genre: Comedy
+Year: 1990
+Worldwide Box Office: 201965915
+Title: Teenage Mutant Ninja Turtles
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.5
+Genre: Action
+Year: 1990
+Worldwide Box Office: 261336002
+Title: Total Recall
+
+Rotten Tomatoes Score: 64
+IMDB Rating: 7.8
+Genre: Sci-fi
+Year: 1989
+Worldwide Box Office: 331950002
+Title: Back to the Future Part II
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 7.6
+Genre: Adventure
+Year: 1989
+Worldwide Box Office: 411348924
+Title: Batman
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.2
+Genre: War
+Year: 1989
+Worldwide Box Office: 161001698
+Title: Born on the Fourth of July
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 8
+Genre: Drama
+Year: 1989
+Worldwide Box Office: 235860116
+Title: Dead Poets Society
+
+Rotten Tomatoes Score: 51
+IMDB Rating: 6.5
+Genre: Horror
+Year: 1989
+Worldwide Box Office: 215394738
+Title: Ghostbusters II
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 6.2
+Genre: Family
+Year: 1989
+Worldwide Box Office: 222724172
+Title: Honey I Shrunk the Kids
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 8.3
+Genre: Adventure
+Year: 1989
+Worldwide Box Office: 474171806
+Title: Indiana Jones and the Last Crusade
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.2
+Genre: Thriller
+Year: 1989
+Worldwide Box Office: 227853986
+Title: Lethal Weapon 2
+
+Rotten Tomatoes Score: 58
+IMDB Rating: 5.8
+Genre: Romance
+Year: 1989
+Worldwide Box Office: 296999813
+Title: Look Who's Talking
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.6
+Genre: Fantasy
+Year: 1989
+Worldwide Box Office: 184155863
+Title: The Little Mermaid
+
+Rotten Tomatoes Score: 11
+IMDB Rating: 5.5
+Genre: Comedy
+Year: 1988
+Worldwide Box Office: 109306210
+Title: "Crocodile" Dundee II
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7.4
+Genre: Comedy
+Year: 1988
+Worldwide Box Office: 73707461
+Title: Beetlejuice
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 7.3
+Genre: Fantasy
+Year: 1988
+Worldwide Box Office: 114968774
+Title: Big
+
+Rotten Tomatoes Score: 5
+IMDB Rating: 5.8
+Genre: Romance
+Year: 1988
+Worldwide Box Office: 78222753
+Title: Cocktail
+
+Rotten Tomatoes Score: 68
+IMDB Rating: 6.9
+Genre: Romance
+Year: 1988
+Worldwide Box Office: 128152301
+Title: Coming to America
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 8.3
+Genre: Thriller
+Year: 1988
+Worldwide Box Office: 83008852
+Title: Die Hard
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 8
+Genre: Drama
+Year: 1988
+Worldwide Box Office: 172825435
+Title: Rain Man
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 7.6
+Genre: Crime
+Year: 1988
+Worldwide Box Office: 78756177
+Title: The Naked Gun: From the Files of Police Squad!
+
+Rotten Tomatoes Score: 36
+IMDB Rating: 5.9
+Genre: Comedy
+Year: 1988
+Worldwide Box Office: 111938388
+Title: Twins
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 7.7
+Genre: Crime
+Year: 1988
+Worldwide Box Office: 156452370
+Title: Who Framed Roger Rabbit
+
+Rotten Tomatoes Score: 46
+IMDB Rating: 6.4
+Genre: Crime
+Year: 1987
+Worldwide Box Office: 153665036
+Title: Beverly Hills Cop II
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 6.9
+Genre: Thriller
+Year: 1987
+Worldwide Box Office: 156645693
+Title: Fatal Attraction
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.3
+Genre: War
+Year: 1987
+Worldwide Box Office: 123922370
+Title: Good Morning Vietnam
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.6
+Genre: Thriller
+Year: 1987
+Worldwide Box Office: 65207127
+Title: Lethal Weapon
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.1
+Genre: Romance
+Year: 1987
+Worldwide Box Office: 80640528
+Title: Moonstruck
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 6.6
+Genre: Thriller
+Year: 1987
+Worldwide Box Office: 65673230
+Title: Stakeout
+
+Rotten Tomatoes Score: 58
+IMDB Rating: 6.4
+Genre: Comedy
+Year: 1987
+Worldwide Box Office: 66995000
+Title: The Secret of My Success
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 8
+Genre: Thriller
+Year: 1987
+Worldwide Box Office: 76270454
+Title: The Untouchables
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 6.5
+Genre: Horror
+Year: 1987
+Worldwide Box Office: 63766510
+Title: The Witches of Eastwick
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 5.8
+Genre: Family
+Year: 1987
+Worldwide Box Office: 167780960
+Title: Three Men and a Baby
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 6.5
+Genre: Adventure
+Year: 1986
+Worldwide Box Office: 174803506
+Title: "Crocodile" Dundee
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8.4
+Genre: Sci-fi
+Year: 1986
+Worldwide Box Office: 86160248
+Title: Aliens
+
+Rotten Tomatoes Score: 68
+IMDB Rating: 6.9
+Genre: Drama
+Year: 1986
+Worldwide Box Office: 84542002
+Title: An American Tail
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 6.5
+Genre: Sport
+Year: 1986
+Worldwide Box Office: 91258000
+Title: Back to School
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 8.1
+Genre: War
+Year: 1986
+Worldwide Box Office: 138530565
+Title: Platoon
+
+Rotten Tomatoes Score: 94
+IMDB Rating: 6.8
+Genre: Crime
+Year: 1986
+Worldwide Box Office: 71624879
+Title: Ruthless People
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 7.3
+Genre: Comedy
+Year: 1986
+Worldwide Box Office: 109713132
+Title: Star Trek IV: The Voyage Home
+
+Rotten Tomatoes Score: 26
+IMDB Rating: 5.8
+Genre: Comedy
+Year: 1986
+Worldwide Box Office: 79817937
+Title: The Golden Child
+
+Rotten Tomatoes Score: 43
+IMDB Rating: 5.8
+Genre: Romance
+Year: 1986
+Worldwide Box Office: 115103979
+Title: The Karate Kid Part II
+
+Rotten Tomatoes Score: 54
+IMDB Rating: 6.8
+Genre: Romance
+Year: 1986
+Worldwide Box Office: 176781728
+Title: Top Gun
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.5
+Genre: Romance
+Year: 1985
+Worldwide Box Office: 210609762
+Title: Back to the Future
+
+Rotten Tomatoes Score: 80
+IMDB Rating: 6.6
+Genre: Sci-fi
+Year: 1985
+Worldwide Box Office: 85313124
+Title: Cocoon
+
+Rotten Tomatoes Score: 53
+IMDB Rating: 7.2
+Genre: Romance
+Year: 1985
+Worldwide Box Office: 87071205
+Title: Out Of Africa
+
+Rotten Tomatoes Score: 28
+IMDB Rating: 6.4
+Genre: Thriller
+Year: 1985
+Worldwide Box Office: 150415432
+Title: Rambo: First Blood Part II
+
+Rotten Tomatoes Score: 38
+IMDB Rating: 6.7
+Genre: Sport
+Year: 1985
+Worldwide Box Office: 127873716
+Title: Rocky IV
+
+Rotten Tomatoes Score: 35
+IMDB Rating: 6.3
+Genre: Comedy
+Year: 1985
+Worldwide Box Office: 60088980
+Title: Spies Like Us
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.8
+Genre: Drama
+Year: 1985
+Worldwide Box Office: 94175854
+Title: The Color Purple
+
+Rotten Tomatoes Score: 68
+IMDB Rating: 7.8
+Genre: Family
+Year: 1985
+Worldwide Box Office: 61389680
+Title: The Goonies
+
+Rotten Tomatoes Score: 48
+IMDB Rating: 6
+Genre: Comedy
+Year: 1985
+Worldwide Box Office: 75973200
+Title: The Jewel of the Nile
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 7.5
+Genre: Romance
+Year: 1985
+Worldwide Box Office: 68706993
+Title: Witness
+
+Rotten Tomatoes Score: 83
+IMDB Rating: 7.3
+Genre: Comedy
+Year: 1984
+Worldwide Box Office: 234760478
+Title: Beverly Hills Cop
+
+Rotten Tomatoes Score: 56
+IMDB Rating: 6.4
+Genre: Romance
+Year: 1984
+Worldwide Box Office: 80035402
+Title: Footloose
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 7.8
+Genre: Fantasy
+Year: 1984
+Worldwide Box Office: 238632124
+Title: Ghostbusters
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 7.2
+Genre: Horror
+Year: 1984
+Worldwide Box Office: 153083102
+Title: Gremlins
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.6
+Genre: Action
+Year: 1984
+Worldwide Box Office: 179870271
+Title: Indiana Jones and the Temple of Doom
+
+Rotten Tomatoes Score: 41
+IMDB Rating: 6.6
+Genre: Comedy
+Year: 1984
+Worldwide Box Office: 81198894
+Title: Police Academy
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 6.9
+Genre: Comedy
+Year: 1984
+Worldwide Box Office: 78371200
+Title: Romancing the Stone
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 6.6
+Genre: Sci-fi
+Year: 1984
+Worldwide Box Office: 76572238
+Title: Star Trek III: The Search for Spock
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.2
+Genre: Family
+Year: 1984
+Worldwide Box Office: 90815558
+Title: The Karate Kid
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 8.1
+Genre: Sci-fi
+Year: 1984
+Worldwide Box Office: 78400000
+Title: The Terminator
+
+Rotten Tomatoes Score: 33
+IMDB Rating: 6.1
+Genre: Romance
+Year: 1983
+Worldwide Box Office: 92921203
+Title: Flashdance
+
+Rotten Tomatoes Score: 85
+IMDB Rating: 6.4
+Genre: Drama
+Year: 1983
+Worldwide Box Office: 64783827
+Title: Mr. Mom
+
+Rotten Tomatoes Score: 42
+IMDB Rating: 6.6
+Genre: Thriller
+Year: 1983
+Worldwide Box Office: 67800000
+Title: Octopussy
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 6.8
+Genre: Drama
+Year: 1983
+Worldwide Box Office: 63541777
+Title: Risky Business
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 8.4
+Genre: Fantasy
+Year: 1983
+Worldwide Box Office: 252583617
+Title: Star Wars Episode VI: Return of the Jedi
+
+Rotten Tomatoes Score: 0
+IMDB Rating: 4.4
+Genre: Romance
+Year: 1983
+Worldwide Box Office: 64892670
+Title: Staying Alive
+
+Rotten Tomatoes Score: 56
+IMDB Rating: 6.6
+Genre: Thriller
+Year: 1983
+Worldwide Box Office: 67642693
+Title: Sudden Impact
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.4
+Genre: Drama
+Year: 1983
+Worldwide Box Office: 108423489
+Title: Terms of Endearment
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.5
+Genre: Comedy
+Year: 1983
+Worldwide Box Office: 90404800
+Title: Trading Places
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.1
+Genre: Thriller
+Year: 1983
+Worldwide Box Office: 79567667
+Title: WarGames
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 6.9
+Genre: Crime
+Year: 1982
+Worldwide Box Office: 78868508
+Title: 48 Hrs.
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 7
+Genre: Romance
+Year: 1982
+Worldwide Box Office: 129795554
+Title: An Officer and a Gentleman
+
+Rotten Tomatoes Score: 50
+IMDB Rating: 6.5
+Genre: Family
+Year: 1982
+Worldwide Box Office: 57059003
+Title: Annie
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 7.9
+Genre: Sci-fi
+Year: 1982
+Worldwide Box Office: 359197037
+Title: E.T. the Extra-Terrestrial
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.4
+Genre: Horror
+Year: 1982
+Worldwide Box Office: 76606280
+Title: Poltergeist
+
+Rotten Tomatoes Score: 30
+IMDB Rating: 6.1
+Genre: Comedy
+Year: 1982
+Worldwide Box Office: 105492483
+Title: Porky's
+
+Rotten Tomatoes Score: 61
+IMDB Rating: 6.7
+Genre: Sport
+Year: 1982
+Worldwide Box Office: 124146897
+Title: Rocky III
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 7.7
+Genre: Drama
+Year: 1982
+Worldwide Box Office: 78912963
+Title: Star Trek II: The Wrath of Khan
+
+Rotten Tomatoes Score: 56
+IMDB Rating: 5.7
+Genre: Musical
+Year: 1982
+Worldwide Box Office: 69701637
+Title: The Best Little Whorehouse in Texas
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.4
+Genre: Romance
+Year: 1982
+Worldwide Box Office: 177200000
+Title: Tootsie
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 6.9
+Genre: Romance
+Year: 1981
+Worldwide Box Office: 95461682
+Title: Arthur
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.2
+Genre: Sport
+Year: 1981
+Worldwide Box Office: 58972904
+Title: Chariots of Fire
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 6.8
+Genre: Thriller
+Year: 1981
+Worldwide Box Office: 54812802
+Title: For Your Eyes Only
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 7.7
+Genre: Drama
+Year: 1981
+Worldwide Box Office: 119285432
+Title: On Golden Pond
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 8.6
+Genre: Adventure
+Year: 1981
+Worldwide Box Office: 212222025
+Title: Raiders of the Lost Ark
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 6.9
+Genre: War
+Year: 1981
+Worldwide Box Office: 85297000
+Title: Stripes
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 6.8
+Genre: Sci-fi
+Year: 1981
+Worldwide Box Office: 108185706
+Title: Superman II
+
+Rotten Tomatoes Score: 31
+IMDB Rating: 6.1
+Genre: Comedy
+Year: 1981
+Worldwide Box Office: 72179579
+Title: The Cannonball Run
+
+Rotten Tomatoes Score: 75
+IMDB Rating: 7.2
+Genre: Drama
+Year: 1981
+Worldwide Box Office: 50427646
+Title: The Four Seasons
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 7
+Genre: Fantasy
+Year: 1981
+Worldwide Box Office: 42365581
+Title: Time Bandits
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 6.6
+Genre: Comedy
+Year: 1980
+Worldwide Box Office: 103290500
+Title: 9 to 5
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 7.8
+Genre: Comedy
+Year: 1980
+Worldwide Box Office: 83453539
+Title: Airplane!
+
+Rotten Tomatoes Score: 20
+IMDB Rating: 6
+Genre: Comedy
+Year: 1980
+Worldwide Box Office: 70687344
+Title: Any Which Way You Can
+
+Rotten Tomatoes Score: 100
+IMDB Rating: 7.5
+Genre: Music
+Year: 1980
+Worldwide Box Office: 67182787
+Title: Coal Miner's Daughter
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 6
+Genre: War
+Year: 1980
+Worldwide Box Office: 69847348
+Title: Private Benjamin
+
+Rotten Tomatoes Score: 20
+IMDB Rating: 5.1
+Genre: Crime
+Year: 1980
+Worldwide Box Office: 66132626
+Title: Smokey and the Bandit II
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 8.8
+Genre: Adventure
+Year: 1980
+Worldwide Box Office: 209398025
+Title: Star Wars Episode V: The Empire Strikes Back
+
+Rotten Tomatoes Score: 67
+IMDB Rating: 6.8
+Genre: Crime
+Year: 1980
+Worldwide Box Office: 101300000
+Title: Stir Crazy
+
+Rotten Tomatoes Score: 11
+IMDB Rating: 5.7
+Genre: Romance
+Year: 1980
+Worldwide Box Office: 58853106
+Title: The Blue Lagoon
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 8
+Genre: Crime
+Year: 1980
+Worldwide Box Office: 57229890
+Title: The Blues Brothers
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6
+Genre: Romance
+Year: 1979
+Worldwide Box Office: 74865517
+Title: 10
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 8.5
+Genre: Sci-fi
+Year: 1979
+Worldwide Box Office: 80931801
+Title: Alien
+
+Rotten Tomatoes Score: 99
+IMDB Rating: 8.5
+Genre: War
+Year: 1979
+Worldwide Box Office: 83471511
+Title: Apocalypse Now
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 7.8
+Genre: Drama
+Year: 1979
+Worldwide Box Office: 106260000
+Title: Kramer vs. Kramer
+
+Rotten Tomatoes Score: 62
+IMDB Rating: 6.2
+Genre: Crime
+Year: 1979
+Worldwide Box Office: 70308099
+Title: Moonraker
+
+Rotten Tomatoes Score: 72
+IMDB Rating: 7.1
+Genre: Sport
+Year: 1979
+Worldwide Box Office: 85182160
+Title: Rocky II
+
+Rotten Tomatoes Score: 45
+IMDB Rating: 6.4
+Genre: Sci-fi
+Year: 1979
+Worldwide Box Office: 82258456
+Title: Star Trek: The Motion Picture
+
+Rotten Tomatoes Score: 24
+IMDB Rating: 6.2
+Genre: Horror
+Year: 1979
+Worldwide Box Office: 86432520
+Title: The Amityville Horror
+
+Rotten Tomatoes Score: 84
+IMDB Rating: 7.2
+Genre: Comedy
+Year: 1979
+Worldwide Box Office: 73691419
+Title: The Jerk
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.7
+Genre: Family
+Year: 1979
+Worldwide Box Office: 65200000
+Title: The Muppet Movie
+
+Rotten Tomatoes Score: 95
+IMDB Rating: 8
+Genre: Horror
+Year: 1978
+Worldwide Box Office: 59020957
+Title: Dawn of the Dead
+
+Rotten Tomatoes Score: 31
+IMDB Rating: 6.2
+Genre: Comedy
+Year: 1978
+Worldwide Box Office: 85196485
+Title: Every Which Way but Loose
+
+Rotten Tomatoes Score: 79
+IMDB Rating: 7.2
+Genre: Romance
+Year: 1978
+Worldwide Box Office: 159978870
+Title: Grease
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 6.9
+Genre: Sport
+Year: 1978
+Worldwide Box Office: 81640278
+Title: Heaven Can Wait
+
+Rotten Tomatoes Score: 63
+IMDB Rating: 6.2
+Genre: Comedy
+Year: 1978
+Worldwide Box Office: 78000000
+Title: Hooper
+
+Rotten Tomatoes Score: 53
+IMDB Rating: 5.7
+Genre: Thriller
+Year: 1978
+Worldwide Box Office: 77737272
+Title: Jaws 2
+
+Rotten Tomatoes Score: 91
+IMDB Rating: 7.6
+Genre: Comedy
+Year: 1978
+Worldwide Box Office: 120091123
+Title: National Lampoon's Animal House
+
+Rotten Tomatoes Score: 82
+IMDB Rating: 6.7
+Genre: Mystery
+Year: 1978
+Worldwide Box Office: 49579269
+Title: Revenge of the Pink Panther
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 7.3
+Genre: Sci-fi
+Year: 1978
+Worldwide Box Office: 134218018
+Title: Superman
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8.2
+Genre: War
+Year: 1978
+Worldwide Box Office: 48979328
+Title: The Deer Hunter
+
+Rotten Tomatoes Score: 73
+IMDB Rating: 7.4
+Genre: War
+Year: 1977
+Worldwide Box Office: 50750000
+Title: A Bridge Too Far
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8.1
+Genre: Romance
+Year: 1977
+Worldwide Box Office: 38251425
+Title: Annie Hall
+
+Rotten Tomatoes Score: 96
+IMDB Rating: 7.7
+Genre: Sci-fi
+Year: 1977
+Worldwide Box Office: 116395460
+Title: Close Encounters of the Third Kind
+
+Rotten Tomatoes Score: 71
+IMDB Rating: 6.5
+Genre: Fantasy
+Year: 1977
+Worldwide Box Office: 51061196
+Title: Oh God!
+
+Rotten Tomatoes Score: 90
+IMDB Rating: 6.8
+Genre: Romance
+Year: 1977
+Worldwide Box Office: 94213184
+Title: Saturday Night Fever
+
+Rotten Tomatoes Score: 81
+IMDB Rating: 6.8
+Genre: Romance
+Year: 1977
+Worldwide Box Office: 126737428
+Title: Smokey and the Bandit
+
+Rotten Tomatoes Score: 93
+IMDB Rating: 8.7
+Genre: Fantasy
+Year: 1977
+Worldwide Box Office: 307263857
+Title: Star Wars
+
+Rotten Tomatoes Score: 36
+IMDB Rating: 6.1
+Genre: Thriller
+Year: 1977
+Worldwide Box Office: 47346365
+Title: The Deep
+
+Rotten Tomatoes Score: 87
+IMDB Rating: 7.4
+Genre: Romance
+Year: 1977
+Worldwide Box Office: 102000000
+Title: The Goodbye Girl
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 7.1
+Genre: Thriller
+Year: 1977
+Worldwide Box Office: 46838673
+Title: The Spy Who Loved Me
+
+Rotten Tomatoes Score: 31
+IMDB Rating: 6.5
+Genre: Romance
+Year: 1976
+Worldwide Box Office: 80000000
+Title: A Star Is Born
+
+Rotten Tomatoes Score: 98
+IMDB Rating: 8
+Genre: Thriller
+Year: 1976
+Worldwide Box Office: 70600000
+Title: All the President's Men
+
+Rotten Tomatoes Score: 0
+IMDB Rating: 4.6
+Genre: Family
+Year: 1976
+Worldwide Box Office: 55700000
+Title: In Search of Noah's Ark
+
+Rotten Tomatoes Score: 46
+IMDB Rating: 5.8
+Genre: Horror
+Year: 1976
+Worldwide Box Office: 52614445
+Title: King Kong
+
+Rotten Tomatoes Score: 54
+IMDB Rating: 6.7
+Genre: History
+Year: 1976
+Worldwide Box Office: 43220000
+Title: Midway
+
+Rotten Tomatoes Score: 92
+IMDB Rating: 8.1
+Genre: Sport
+Year: 1976
+Worldwide Box Office: 117235147
+Title: Rocky
+
+Rotten Tomatoes Score: 88
+IMDB Rating: 6.9
+Genre: Crime
+Year: 1976
+Worldwide Box Office: 51079064
+Title: Silver Streak
+
+Rotten Tomatoes Score: 78
+IMDB Rating: 6.8
+Genre: Thriller
+Year: 1976
+Worldwide Box Office: 46236000
+Title: The Enforcer
+
+Rotten Tomatoes Score: 86
+IMDB Rating: 7.6
+Genre: Mystery
+Year: 1976
+Worldwide Box Office: 60922980
+Title: The Omen
+
+Rotten Tomatoes Score: 0
+IMDB Rating: 7
+Genre: History
+Year: 1976
+Worldwide Box Office: 86600000
+Title: To Fly!
+
+Rotten Tomatoes Score: 0
+IMDB Rating: 6
+Genre: Drama
+Year: 1975
+Worldwide Box Office: 35000000
+Title: Aloha Bobby and Rose
+
+Rotten Tomatoes Score: 97
+IMDB Rating: 8.1
+Genre: Drama
+Year: 1975
+Worldwide Box Office: 50000000
+Title: Dog Day Afternoon
+
+Rotten Tomatoes Score: 38
+IMDB Rating: 6.4
+Genre: Musical
+Year: 1975
+Worldwide Box Office: 39000000
+Title: Funny Lady
+
+Rotten Tomatoes Score: 63
+IMDB Rating: 6.3
+Genre: Romance
+Year: 1975
+Worldwide Box Office: 49407734
+Title: Shampoo
+
+Rotten Tomatoes Score: 56
+IMDB Rating: 6.2
+Genre: Western
+Year: 1975
+Worldwide Box Office: 36853000
+Title: The Apple Dumpling Gang
+
+Rotten Tomatoes Score: 0
+IMDB Rating: 6.4
+Genre: Drama
+Year: 1975
+Worldwide Box Office: 34673100
+Title: The Other Side of the Mountain
+
+Rotten Tomatoes Score: 89
+IMDB Rating: 7.1
+Genre: Mystery
+Year: 1975
+Worldwide Box Office: 41833347
+Title: The Return of the Pink Panther
+
+Rotten Tomatoes Score: 74
+IMDB Rating: 6.7
+Genre: Thriller
+Year: 2002
+Worldwide Box Office: 408247917
+Title: Signs
+
+398 results
+
+Choose one of the following options: 
+1. Filter by genre
+2. Filter by range of IMDB rating and Rotten Tomatoes score
+3. Get the highest grossing movie
+4. Print all movies
+5. Exit
+5
+Exiting Blockbuster
+Goodbye!
+]0;jfg001@turing: ~/HW/HW7[01;32mjfg001@turing[00m:[01;34m~/HW/HW7[00m$ exit
+exit
+
+Script done on 2023-12-07 20:52:05-0600
